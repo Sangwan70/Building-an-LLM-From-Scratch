@@ -35,10 +35,9 @@ You can alternatively view this and other files on GitHub at [Building-an-LLM-Fr
 <br>
 <br>
 
-[![Code tests (Linux)](https://github.com/Sangwan70/Building-an-LLM-From-Scratch/actions/workflows/basic-tests-linux.yml/badge.svg)](https://github.com/Sangwan70/Building-an-LLM-From-Scratch/actions/workflows/basic-tests-linux.yml)
-[![Code tests (Windows)](https://github.com/Sangwan70/Building-an-LLM-From-Scratch/actions/workflows/basic-tests-windows.yml/badge.svg)](https://github.com/Sangwan70/Building-an-LLM-From-Scratch/actions/workflows/basic-tests-windows.yml)
-[![Code tests (macOS)](https://github.com/Sangwan70/Building-an-LLM-From-Scratch/actions/workflows/basic-tests-macos.yml/badge.svg)](https://github.com/Sangwan70/Building-an-LLM-From-Scratch/actions/workflows/basic-tests-macos.yml)
-
+[![Code tests (Linux)]](https://github.com/Sangwan70/Building-an-LLM-From-Scratch/actions/workflows/basic-tests-linux.yml)
+[![Code tests (Windows)]](https://github.com/Sangwan70/Building-an-LLM-From-Scratch/actions/workflows/basic-tests-windows.yml)
+[![Code tests (macOS)]](https://github.com/Sangwan70/Building-an-LLM-From-Scratch/actions/workflows/basic-tests-macos.yml)
 
 
 <br>
@@ -78,7 +77,7 @@ Several folders contain optional materials as a bonus for interested readers:
   - [Comparing Various Byte Pair Encoding (BPE) Implementations](part_1/02_bonus_bytepair-encoder)
   - [Understanding the Difference Between Embedding Layers and Linear Layers](part_1/03_bonus_embedding-vs-matmul)
   - [Dataloader Intuition with Simple Numbers](part_1/04_bonus_dataloader-intuition)
-- **CPart 2: Coding attention mechanisms**
+- **Part 2: Coding attention mechanisms**
   - [Comparing Efficient Multi-Head Attention Implementations](part_2/02_bonus_efficient-multihead-attention/mha-implementations.ipynb)
   - [Understanding PyTorch Buffers](part_2/03_understanding-buffers/understanding-buffers.ipynb)
 - **Part 3: Implementing a GPT model from scratch**
@@ -123,7 +122,7 @@ BibTeX entry:
 
 ```
   author       = {Ram N Sangwan},
-  title        = {Build A Large Language Model (From Scratch)}
+  title        = {Building An LLM From Scratch}
   github       = {https://github.com/Sangwan70/Building-an-LLM-From-Scratch}
 }
 ```
