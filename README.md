@@ -1,4 +1,4 @@
-# Build a Large Language Model (From Scratch)
+# Building a Large Language Model From Scratch
 
 This repository contains the code for developing, pretraining, and finetuning a GPT-like LLM.
 
@@ -7,12 +7,7 @@ You'll learn and understand how large language models (LLMs) work from the insid
 
 The method described in this book for training and developing your own small-but-functional model for educational purposes mirrors the approach used in creating large-scale foundational models such as those behind ChatGPT. In addition, this book includes code for loading the weights of larger pretrained models for finetuning.
 
-- Link to the official [source code repository](https://github.com/rasbt/LLMs-from-scratch)
-- [Link to the book at Manning (the publisher's website)](http://mng.bz/orYv)
-- [Link to the book page on Amazon.com](https://www.amazon.com/gp/product/1633437167)
-- ISBN 9781633437166
-
-<a href="http://mng.bz/orYv#reviews"><img src="https://sebastianraschka.com//images/LLMs-from-scratch-images/other/reviews.png" width="220px"></a>
+- Link to the official [source code repository](https://github.com/Sangwan70/LLMs-from-scratch)
 
 
 <br>
@@ -21,7 +16,7 @@ The method described in this book for training and developing your own small-but
 To download a copy of this repository, click on the [Download ZIP](https://github.com/rasbt/LLMs-from-scratch/archive/refs/heads/main.zip) button or execute the following command in your terminal:
 
 ```bash
-git clone --depth 1 https://github.com/rasbt/LLMs-from-scratch.git
+git clone --depth 1 https://github.com/Sangwan70/LLMs-from-scratch.git
 ```
 
 <br>

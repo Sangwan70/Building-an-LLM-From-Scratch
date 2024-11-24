@@ -1,10 +1,9 @@
 # Copyright (c) Sebastian Raschka under Apache License 2.0 (see LICENSE.txt).
 # Source for "Build a Large Language Model From Scratch"
-#   - https://www.manning.com/books/build-a-large-language-model-from-scratch
-# Code: https://github.com/rasbt/LLMs-from-scratch
+#  
+# Code: 
 
-# This file collects all the relevant code that we covered thus far
-# throughout Chapters 2-4.
+# This file collects all the relevant code that we covered thus far throughout Parts 1-4.
 # This file can be run as a standalone script.
 
 import tiktoken
@@ -15,7 +14,7 @@ import matplotlib.pyplot as plt
 
 
 #####################################
-# Chapter 2
+# Part 1
 #####################################
 
 class GPTDatasetV1(Dataset):
@@ -56,7 +55,7 @@ def create_dataloader_v1(txt, batch_size=4, max_length=256,
 
 
 #####################################
-# Chapter 3
+# Part 2
 #####################################
 
 class MultiHeadAttention(nn.Module):
@@ -116,7 +115,7 @@ class MultiHeadAttention(nn.Module):
 
 
 #####################################
-# Chapter 4
+# Part 3
 #####################################
 
 class LayerNorm(nn.Module):
@@ -242,7 +241,7 @@ def generate_text_simple(model, idx, max_new_tokens, context_size):
 
 
 #####################################
-# Chapter 5
+# Part 4
 ####################################
 
 
