@@ -354,7 +354,7 @@ if __name__ == "__main__":
 
     # Code as it is used in the main chapter
     else:
-        CHOOSE_MODEL = "gpt2-small (124M)"
+        CHOOSE_MODEL = "gpt2-medium (355M)"
         INPUT_PROMPT = "Every effort moves"
 
         BASE_CONFIG = {

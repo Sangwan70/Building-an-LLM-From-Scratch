@@ -42,7 +42,7 @@ def get_model_and_tokenizer():
     if not model_path.exists():
         print(
             f"Could not find the {model_path} file. Please run the chapter 7 code "
-            " (ch07.ipynb) to generate the gpt2-medium355M-sft.pt file."
+            " (part_6.ipynb) to generate the gpt2-medium355M-sft.pt file."
         )
         sys.exit()
 

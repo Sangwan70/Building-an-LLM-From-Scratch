@@ -318,7 +318,7 @@ def main(mask_instructions=False, alpaca52k=False, phi3_prompt=False, lora=False
     if alpaca52k:
         url = "https://raw.githubusercontent.com/tatsu-lab/stanford_alpaca/main/alpaca_data.json"
     else:
-        url = "https://raw.githubusercontent.com/rasbt/LLMs-from-scratch/main/ch07/01_main-chapter-code/instruction-data.json"
+        url = "https://raw.githubusercontent.com/Sangwan70/Building-an-LLM-From-Scratch/refs/heads/main/part_6/01_main-chapter-code/instruction-data.json"
     data = download_and_load_file(file_path, url)
 
     train_portion = int(len(data) * 0.85)  # 85% for training
@@ -407,7 +407,7 @@ def main(mask_instructions=False, alpaca52k=False, phi3_prompt=False, lora=False
     BASE_CONFIG.update(model_configs[CHOOSE_MODEL])
 
     model_size = CHOOSE_MODEL.split(" ")[-1].lstrip("(").rstrip(")")
-    settings, params = download_and_load_gpt2(model_size=model_size, models_dir="gpt2")
+    settings, params = download_and_load_gpt2(model_size=model_size, models_dir="../../gpt2")
 
     model = GPTModel(BASE_CONFIG)
     load_weights_into_gpt(model, params)
