@@ -13,4 +13,3 @@
 - [04_bonus_hparam_tuning](04_bonus_hparam_tuning) contains an optional hyperparameter tuning script
 - [05_user_interface](05_user_interface) implements an interactive user interface to interact with the pretrained LLM
 - [06_gpt_to_llama](06_gpt_to_llama) contains a step-by-step guide for converting a GPT architecture implementation to Llama 3.2 and loads pretrained weights from Meta AI
-- [07_memory_efficient_weight_loading](07_memory_efficient_weight_loading) contains a bonus notebook showing how to load model weights via PyTorch's `load_state_dict` method more efficiently

@@ -76,9 +76,9 @@ def download_file(url, destination):
                         progress_bar.update(len(chunk))  # Update progress bar
     except urllib.error.HTTPError:
         s = (
-            f"The specified URL ({url}) is incorrect, the internet connection cannot be established,"
-            "\nor the requested file is temporarily unavailable.\nPlease visit the following website"
-            " for help: https://github.com/Sangwan70/Building-an-LLM-From-Scratch/discussions")
+            f"""The specified URL ({url}) is incorrect, the internet connection cannot be established,
+            or the requested file is temporarily unavailable.\nPlease visit the following website"
+             for help: https://github.com/Sangwan70/Building-an-LLM-From-Scratch/discussions""")
         print(s)
 
 
