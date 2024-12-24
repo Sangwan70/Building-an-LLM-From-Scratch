@@ -1,0 +1,9 @@
+torch >= 2.0.1        # all
+jupyterlab >= 4.0     # all
+tiktoken >= 0.5.1     # part_1; part_3; part_4
+matplotlib >= 3.7.1   # part_3; part_4
+tensorflow >= 2.15.0  # part_4
+tqdm >= 4.66.1        # part_4; part_6
+numpy >= 1.25, < 2.0  # dependency of several other libraries like torch and pandas
+pandas >= 2.2.1       # part_5
+psutil >= 5.9.5       # part_6; already installed automatically as dependency of torch

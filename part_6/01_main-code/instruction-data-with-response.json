@@ -1,0 +1,1322 @@
+[
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove grammar mistakes: To sum up, the engineering design process can be a good way to innovate new generation of battery.",
+        "output": "To sum up, the engineering design process can be a good way to innovate a new generation of batteries.",
+        "model_response": "To sum up, the engineering design process can be a good way to innovate new generations of battery."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Grammar improvements: In cities around the world, large amount of energy are consumed by electrical appliances every day.",
+        "output": "In cities around the world, a large amount of energy is consumed by electrical appliances every day.",
+        "model_response": "In cities around the world, large amounts of energy are consumed every day by electrical appliances."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix the grammatical mistakes: With lesser energy used, costs of living are reduced and the economy would improve with more people having more money to spend.",
+        "output": "With less energy used, costs of living are reduced, and the economy would improve with more people having more money to spend.",
+        "model_response": "With lesser energy used, the cost of living is reduced, and the economy would improve with more people having more money to spend."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix the grammar mistakes: Therefore, through discovery of new form of convenient and renewable energy, the price of energy could be more stable.",
+        "output": "Therefore, through the discovery of new forms of convenient and renewable energy, the price of energy could be more stable.",
+        "model_response": "Therefore, through discovery of new forms of convenient and renewable energy, the price of energy could be more stable."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality in this sentence: Having a literacy rate of 61 percent, it is quite difficult to introduce new technological innovations, as not all the people in the country would understand and know how to utilize the product well.",
+        "output": "Having a literacy rate of 61 percent, it is quite difficult to introduce new technological innovations, as not all the people in the country would understand and know how to utilize a product well.",
+        "model_response": "Having a literacy rate of 61 percent, it is quite difficult to introduce new technological innovations, as not all the people in the country would understand and know how to utilize the product well."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove grammar mistakes: Problems such as second highest population, vast size, low literacy rate and 'Brain Drain' have made it difficult for India to take a step towards technological innovations in the field of engineering design.",
+        "output": "Problems such as the second-highest population, vast size, low literacy rate, and 'Brain Drain' have made it difficult for India to take a step toward technological innovations in the field of engineering design.",
+        "model_response": "Problem such as second highest population, vast size, low literacy rate, and Brain Drain have made it difficult for India to take a step towards technological innovations in the field of engineering design."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors in this sentence: Right from education every other field in India is flooded with corrupt officials who primarily work with a self centered mindset to misappropriate and amass huge amount of money.",
+        "output": "Right from education, every other field in India is flooded with corrupt officials who primarily work with a self-centered mindset to misappropriate and amass a huge amount of money.",
+        "model_response": "Right from education, every other field in India is flooded with corrupt officials who primarily work with a self-centered mindset to misappropriate and amass huge amounts of money."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality in this sentence: These individuals are indifferent to the fact that majority of India's population is below the poverty line.",
+        "output": "These individuals are indifferent to the fact that the majority of India's population is below the poverty line.",
+        "model_response": "These individuals are indifferent to the fact that the majority of India's population is below the poverty line."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Grammar improvements: The 5 stages are sequential which means that an interruption in any of the 5 steps can hamper the engineering design process.",
+        "output": "The 5 stages are sequential, which means that an interruption in any of the 5 steps can hamper the engineering design process.",
+        "model_response": "The 5 stages are sequential, which means that an interruption in any of the 5 steps can hamper the engineering design process."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors: In Malaysia, engineering design processes for innovation have not been evolving as much as the government would like.",
+        "output": "In Malaysia, engineering design processes for innovation have not been evolving as much as the government would like them to.",
+        "model_response": "In Malaysia, engineering design processes for innovation have not been as much as the government would like."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix all grammatical errors: The problems that contribute to it is that there are not many quality engineers left in Malaysia and the local society's mindset.",
+        "output": "The problems that contribute to this are that there are not many quality engineers left in Malaysia and because of the local society's mindset.",
+        "model_response": "The problems that contribute to it are that there are not many quality engineers left in Malaysia and the local society's mindset."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality in this sentence: For example, Malaysians who studied in Singapore are required to sign a bond which ties them to work in Singapore for a few years.",
+        "output": "For example, Malaysians who study in Singapore are required to sign a bond that ties them to work in Singapore for a few years.",
+        "model_response": "For example, Malaysians who studied in Singapore are required to sign a bond which ties them to work in Singapore for a few years."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors: They are not willing to take new risks in terms of design innovations.",
+        "output": "They are not willing to take new risks in terms of design innovation.",
+        "model_response": "They are not willing to take new risks in terms of design innovations."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix errors in this text: Malaysians are contented easily and refuse to improve on existing innovations and technologies.",
+        "output": "Malaysians are easily contented and refuse to improve on existing innovations and technologies.",
+        "model_response": "Malaysians are contented easily and refuse to improve on existing innovations and technologies."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix all grammatical errors: They are not willing to seek help from foreign countries and source most of the work to unqualified local companies.",
+        "output": "Furthermore, they are not willing to seek help from foreign countries and contract most of the work to unqualified local companies.",
+        "model_response": "They are not willing to seek help from foreign countries and are the main source of the work to unqualified local companies."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors in this sentence: The problems listed above can have an impact on all or one of the 5 stages of engineering design process.",
+        "output": "The problems listed above can have an impact on all or one of the 5 stages of the engineering design process.",
+        "model_response": "The problems listed above can have an impact on all or one of the 5 stages of the engineering design process."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors: Most significantly, because of the insufficient amount of engineers in the country, we are just not able to source enough manpower to accomplish the design process.",
+        "output": "Most significantly, because of the insufficient number of engineers in the country, we are just not able to get enough manpower to accomplish the design process.",
+        "model_response": "Most significantly, because of the insufficient amount of engineers in the country, we are just not able to source enough manpower to accomplish the design process."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence grammatical: In conclusion, the progress of engineering designed is being disrupted by local society and the lack of engineers.",
+        "output": "In conclusion, the progress of engineering design is being disrupted by the mindset of the local society and the lack of engineers.",
+        "model_response": "In conclusion, the progress of engineering design is being disrupted by local society and the lack of engineers."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality of the sentence: As the rest of the world continue to improve technologically, we advance at a slower pace.",
+        "output": "As the rest of the world continues to improve technologically, we can only advance at a slower pace.",
+        "model_response": "As the rest of the world continues to improve, we are at a slower pace."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove grammatical mistakes: However, there are some concerns about it, such as security, costs and performance, which have limited the popularization of this promising substitute approach.",
+        "output": "However, there are some concerns about it, such as security, costs, and performance, which have limited the popularization of this promising substitute.",
+        "model_response": "However, there are some concerns about it, such as security, cost, and performance, which have limited the popularity of this promising substitute approach."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar in this sentence: Not only does design entail magnificent facade or a weird opinion of a maverick, but it also involves pragmatism, cost and efficiency.",
+        "output": "Not only does design entail a magnificent facade or the strange opinion of a maverick, but it also involves pragmatism, cost, and efficiency.",
+        "model_response": "Not only does design entail magnificent facade or a weird opinion of a maverick, but it also involves pragmatism, cost, and efficiency."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar in the sentence: The reason is that the equipping of new device needed for experiments is not in tandem with the changing of textbooks.",
+        "output": "The reason is that the acquisition of new equipment needed for experiments is not in tandem with the changing of textbooks.",
+        "model_response": "The reason is that the equipping of new devices needed for experiments is not in tandem with the changing of textbooks."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors: Only in the urban areas can students have opportunities to get access to the required equipments.",
+        "output": "Only in urban areas can students have opportunities to get access to the required equipment.",
+        "model_response": "Only in the urban areas can students have opportunities to get access to the required equipment."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence fluent: In these regions, another factor that breaks the camel's back is the exodus of young lab teachers to cities where they can have a conducive environment to develop their own job and earn a better living.",
+        "output": "In these regions, another factor that breaks the camel's back is the exodus of young lab teachers to cities where they can have a conducive environment to develop their own careers and earn a better living.",
+        "model_response": "In these regions, another factor that breaks the camel's back is the exodus of young lab teachers to cities where they can have a conducive environment to develop their own job and earn a better living."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammaticality of this sentence: This can be accounted for the fact there are few organizations in almost all schools.",
+        "output": "This can be accounted for by the fact that there are few organizations in almost all schools.",
+        "model_response": "This can be accounted for the fact that there are few organizations in almost all schools."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix all grammatical errors: There was, in fact, one organization, namely the Youth Union, in my secondary school.",
+        "output": "There was, in fact, only one organization, namely the Youth Union, in my secondary school.",
+        "model_response": "There was, in fact, one organization, namely the Youth Union, in my secondary school."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence grammatical: Though activities held by the above organizations ranged from learning history, stance to acquiring leadership, not many students were benefited from them.",
+        "output": "Though activities held by the above organizations ranged from learning history to acquiring leadership, not many students benefited from them.",
+        "model_response": "Though activities held by the above organizations ranged from learning history, stance to acquiring leadership, not many students were benefited from them."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence grammatical: That is due to the fact that the number of attendants for one activity just covered a small portion of the whole students in school.",
+        "output": "That is due to the fact that the number of participants for one activity just covered a small portion of all the students in school.",
+        "model_response": "That is due to the fact that the number of attendants for one activity just covered a small portion of the whole students in school."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence grammatical: However, with efforts to reform education, I optimistically believe that we can overcome these obstacles to be competitive engineers in global market.",
+        "output": "However, with efforts to reform education, I optimistically believe that we can overcome these obstacles to be competitive engineers in the global market.",
+        "model_response": "However, with the efforts to reform education, I believe that we can overcome these obstacles to be competitive engineers in the global market."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammaticality of this sentence: In Singapore, there are problems that hamper engineering design processes for innovations.",
+        "output": "In Singapore, there are problems that hamper engineering design processes for innovation.",
+        "model_response": "In Singapore, there are problems that hamper the engineering design processes for innovations."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors in this sentence: Also there are some that are shy to speak up about their ideas.",
+        "output": "Moreover, there are some that are shy to speak up about their ideas.",
+        "model_response": "Also, there are some that are shy to speak up about their ideas."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors: Another problem would be individuals with fixed mindsets, thinking that designing are not a good path to take.",
+        "output": "Another problem would be individuals with fixed mindsets, thinking that designing is not a good path to take.",
+        "model_response": "Another problem would be individuals with fixed mindsets, thinking that designing is not a good path to take."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence fluent: Hence the need to remove that mental block, so that the individuals will have the opportunity to design and invent what they desire for.",
+        "output": "Hence there is a need to remove that mental block so that individuals will have the opportunity to design and invent what they desire.",
+        "model_response": "Hence, the need to remove that mental block, so that the individuals will have the opportunity to design and invent what they desire."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammaticality of this sentence: People will tend to go for simpler designs, because of the long time required to create a proper full design.",
+        "output": "People tend to go for simpler designs because of the long time required to create a proper full design.",
+        "model_response": "People will tend to go for a simpler design because of the long time required to create a proper full design."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors: Eventually potential designers will have second thoughts and step out of designing.",
+        "output": "Eventually, potential designers would have second thoughts and step out of designing.",
+        "model_response": "Eventually, potential designers will have second thoughts and step out of designing."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix the grammatical mistakes: In conclusion, the lack of creativity and the time to create a design could cause impacts to the market in Singapore.",
+        "output": "In conclusion, the lack of creativity and the time to create a design could cause impacts the market in Singapore.",
+        "model_response": "In conclusion, the lack of creativity and the time to create a design could cause impacts to the market in Singapore."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors: In addition, this would lead to market downturn.",
+        "output": "In addition, this would lead to a market downturn.",
+        "model_response": "In addition, this would lead to market downturn."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove all grammatical errors from this text: It's hard to change once it's fixed.",
+        "output": "It's hard to change it once it's fixed.",
+        "model_response": "It's hard to change once it's fixed."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar in this sentence: I believe that if an individual takes up the courage to change, and design a proper design, it would resolve the problems that are hampering the design process for innovations.",
+        "output": "I believe that if an individual takes up the courage to change and design a proper design, it will resolve the problems that are hampering the design process for innovation.",
+        "model_response": "I believe that if an individual takes up the courage to change, and design a proper design, it would resolve the problems that are hampering the design process for innovations."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors in this sentence: The boom of innovation and technology in the past few decades has just been tremendous.",
+        "output": "The boom of innovation and technology in the past few decades has been tremendous.",
+        "model_response": "The boom in innovation and technology in the past few decades has just been tremendous."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors: With India being a democratic country the major revenue for the government is taxes paid by the people.",
+        "output": "With India being a democratic country, the major revenue for the government is taxes paid by the people.",
+        "model_response": "With India being a democratic country, the major revenue for the government is taxes paid by the people."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix the grammatical mistakes: One of the major responsibilities of the government of any country is providing quality education to the children.",
+        "output": "One of the major responsibilities of the government of any country is to provide quality education to the nation's children.",
+        "model_response": "One of the major responsibilities of the government of any country is to provide quality education to the children."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors in this sentence: It is no wonder that India lags in technological innovations and research.",
+        "output": "It is no wonder that India lags behind in technological innovations and research.",
+        "model_response": "It is no wonder that India lags in technological innovations and research."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammaticality of this sentence: The chance of earning huge sums of money and a quality lifestyle just makes them leave their country as though they are leaving their house to take a leisurely stroll.",
+        "output": "The chance of earning huge sums of money and obtaining a quality lifestyle makes them leave their country as though they are leaving their house to take a leisurely stroll.",
+        "model_response": "The chance of earning huge sums of money and a quality lifestyle just makes them leave their country as though they are leaving their house to take a leisurely stroll."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix disfluencies in the sentence: With the government spending huge sums of money on them and these people not even repaying the government by working here and paying taxes here, it is a huge blow for the government.",
+        "output": "With the government spending huge sums of money on them and these people not even repaying the government by working here and paying taxes here, their departure is a huge blow to the government.",
+        "model_response": "With the government spending huge sums of money on them and these people not even repaying the government by working here and paying taxes here, it is a huge blow for the government."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar: With such highly educated individuals leaving the country the scope for leading research becomes quite limited, scarce.",
+        "output": "With such highly educated individuals leaving the country, the scope for leading research becomes quite limited.",
+        "model_response": "With such highly educated individuals leaving the country, the scope for leading research becomes quite limited, and scarce."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar in this sentence: The process of concept generation, product testing and product implementation requires lots of resources.",
+        "output": "The process of concept generation, product testing, and product implementation requires a lot of resources.",
+        "model_response": "The process of concept generation, product testing, and product implementation requires lots of resources."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove all grammatical errors from this text: Generating new concepts do not just require a single day of effort, as what people believe, but instead require a longer thought process which may take days or even months.",
+        "output": "Generating new concepts does not just require a single day of effort, as people believe, but instead requires a longer thought process which may take days or even months.",
+        "model_response": "Generating new concepts does not just require a single day of effort, as what people believe, but instead requires a longer thought process, which may take days or even months."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical mistakes in this sentence: This has brought rise to various government bodies efficient in international operating and manufacturing standards.",
+        "output": "This has given rise to various government bodies efficient in international operating and manufacturing standards.",
+        "model_response": "This has brought about the various government bodies, which are efficient in international operating and manufacturing standards."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors in this sentence: For example, when a kind of new technology is being marketed, perhaps some people who earn a living by the old technology or products, like hand embroidery will suffer market competition even huge losses.",
+        "output": "For example, when a kind of new technology is being marketed, perhaps some people who earn a living from the old technology or products like hand embroidery will suffer market competition and even make huge losses.",
+        "model_response": "For example, when a kind of new technology is being marketed, perhaps some people who earn a living by the old technology or products, like hand embroidery, will suffer market competition even huge losses."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammar of this text: In some countries, nuclear energy plays an important role in power in power production.",
+        "output": "In some countries, nuclear energy plays an important role in power production.",
+        "model_response": "In some countries, nuclear energy plays an important role in power production."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove grammar mistakes: We shall not go down to the details of that process but it was a major scientific discovery as it leads to another form of energy production.",
+        "output": "We shall not go down to the details of that process, but it was a major scientific discovery as it led to another form of energy production.",
+        "model_response": "We shall not go down the details of that process, but it was a major scientific discovery as it led to another form of energy production."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix all grammatical errors: However, the use of nuclear weapons on another country has been non-existent since WWII as countries realize the chaos it could cause.",
+        "output": "However, the use of nuclear weapons on another country has been non-existent since WWII as countries realize the chaos they could cause.",
+        "model_response": "However, the use of nuclear weapons on another country has been non-existent since WWII as countries realize the chaos it could cause."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical mistakes in this sentence: Using more nuclear energy and less carbon-generated energy to produce electrical energy could mean a significant decrease in greenhouse gases and a cleaner earth to live in.",
+        "output": "Using more nuclear energy and less carbon-generated energy to produce electrical energy could mean a significant decrease in greenhouse gases and a cleaner earth to live on.",
+        "model_response": "Using more nuclear energy and less carbon-generated energy to produce electrical energy could mean a significant decrease in greenhouse gases and a cleaner earth to live in."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality in this sentence: Hence, nuclear energy might become essential in the near future as the world seeks to solve the problems due to global warming.",
+        "output": "Hence, nuclear energy might become essential in the near future as the world seeks to solve energy-related problems such as global warming.",
+        "model_response": "Hence, nuclear energy might become essential in the near future as the world seeks to solve the problems due to global warming."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors in this sentence: At the same time, just like any other forms that could be used to generate electricity, nuclear power is not a perfect source of energy too.",
+        "output": "At the same time, just like any other forms that could be used to generate electricity, nuclear power is not a perfect source of energy.",
+        "model_response": "At the same time, nuclear power is not a perfect source of energy too."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality of the sentence: The creation NEWater, a technology where used water is treated to become potable, is one of the few examples of success in the research of technology in Singapore.",
+        "output": "The creation of NEWater, a technology where used water is treated to become potable, is one of the few examples of success in the research of technology in Singapore.",
+        "model_response": "The creation of NEWater, a technology where used water is treated to become potable, is one of the few examples of success in the research of technology in Singapore."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove all grammatical errors from this text: All these may then lead to the slowdown of the technological advancement in Singapore.",
+        "output": "All these may then lead to the slowdown of technological advancement in Singapore.",
+        "model_response": "All these may then lead to the slowdown of the technological advancement in Singapore."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix all grammatical errors: Moreover, academy promotion mainly requires students to reproduce the knowledge conservatively without much consideration.",
+        "output": "Moreover, achieving academy promotion mainly requires students to reproduce their knowledge conservatively without much consideration.",
+        "model_response": "Moreover, the academy promotion mainly requires students to reproduce the knowledge conservatively without much consideration."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality in this sentence: Their focus, instead, is directed at their routine occupational job and their own family matters and therefore, the element of creative is not part of their daily life.",
+        "output": "Their focus, instead, is directed at their routine occupational job and their own family matters, and therefore, the element of creativity is not part of their daily life.",
+        "model_response": "Their focus, instead, is directed at their routine occupational job and their own family matters, and therefore, the element of creative is not part of their daily life."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Grammar improvements: It is the sentence that we all heard many times before when it comes to innovation.",
+        "output": "This is the sentence that we have all heard many times before when it comes to innovation.",
+        "model_response": "It is the sentence that we all heard many times before when it comes to innovation."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar in the sentence: To be able to capture the consumers in the market, we have to be innovative in product designs.",
+        "output": "To be able to capture the consumers in the market, we have to be innovative in product design.",
+        "model_response": "To be able to capture the consumers in the market, we have to be innovative in product designs."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors: Hence during the presentation of ideas, they will present it with little or no confidence because they are afraid of making fools of themselves.",
+        "output": "Hence, during a presentation of ideas, they will present it with little or no confidence because they are afraid of making fools of themselves.",
+        "model_response": "Hence, during the presentation of ideas, they will present it with little or no confidence because they are afraid of making fools of themselves."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix disfluencies in the sentence: As a result, the cost of production will be expensive and people rather choose to design a simple product and not to invest in the product innovation and research.",
+        "output": "As a result, the cost of production will be expensive, and people would rather choose to design a simple product instead of investing in product innovation and research.",
+        "model_response": "As a result, the cost of production will be expensive, and people rather choose to design a simple product and not to invest in the product innovation and research."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors: Also we have a small talent pool of people with innovative ideas.",
+        "output": "In addition, we have a small talent pool of people with innovative ideas.",
+        "model_response": "Also, we have a small talent pool of people with innovative ideas."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality: Instead of having new type of products in the market to capture the attention of the consumers, the market ended up with many different products having similar features and functions.",
+        "output": "Instead of having new products in the market to capture the attention of the consumers, the market ends up with many different products having similar features and functions.",
+        "model_response": "Instead of having new types of products in the market to capture the attention of the consumers, the market ended up with many different products having similar features and functions."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar: As mentioned by Chan in his lecture, many people are also willingly to pay more for design as well as for new products that they think are simple, practical and useful.",
+        "output": "Furthermore, as mentioned by Chan in his lecture, many people are willing to pay more for design as well as for new products that they think are simple, practical, and useful.",
+        "model_response": "As mentioned by Chan in his lecture, many people are also willing to pay more for design as well as for new products that they think are simple, practical, and useful."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar: For instance, Apple iPhones were in high demand in the market during its launch because of it design, simplicity and reliability although the features of the iPhones are generally the same as many other smartphones in the market.",
+        "output": "For instance, Apple iPhones were in high demand in the market during its launch because of their design, simplicity, and reliability, although the features of the iPhones are generally the same as many other smartphones in the market.",
+        "model_response": "For instance, Apple iPhones were in high demand during its launch because of their design simplicity, and because of their reliability, although the features of the iPhones are generally the same as many other smartphones in the market."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix disfluencies in the sentence: Engineering design process plays an important role in innovation and creativity.",
+        "output": "The engineering design process plays an important role in innovation and creativity.",
+        "model_response": "The engineering design process plays an important role in innovation and creativity."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors in this sentence: Since the resources in the world are limited and decreasing, many countries are making efforts to develop the designing process to use the resources more efficiently and improving the standard of life.",
+        "output": "Since the resources in the world are limited and decreasing, many countries are making efforts to develop the design process to use the resources more efficiently to improve the standard of life.",
+        "model_response": "Since the resources in the world are limited, many countries are making efforts to develop the design process to use the resources more efficiently and improving the standard of life."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix the grammatical mistakes: However, in my country there are still some problems that hamper the creativity and design, especially the lack of resource and the behavior of customers.",
+        "output": "However, in my country, there are still some problems that hamper creativity and design, especially the lack of resources and the behavior of customers.",
+        "model_response": "However, in my country, there are still some problems that hamper the creativity and the design, especially the lack of resources and the behavior of customers."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar: In this essay, I will discuss about these obstacles and how they affect the design process.",
+        "output": "In this essay, I will discuss these obstacles and how they affect the design process.",
+        "model_response": "In this essay, I will discuss the obstacles and how they affect the design process."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammar of this text: For example, in my country, many projects had to be postponed because there are not enough materials to make the products.",
+        "output": "For example, in my country, many projects have to be postponed because there are not enough materials to make the products.",
+        "model_response": "For example, in my country, many projects have to be postponed because there are not enough materials to make the products."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove grammar mistakes: Once they are used to with the current product, it is hard to persuade them to switch to the new one because they have to learn how to use the new device.",
+        "output": "Once they are used to a current product, it is hard to persuade them to switch to a new one because they have to learn how to use the new device.",
+        "model_response": "Once they are used to the current product, it is hard to persuade them to switch to the new product because they have to learn how to use the new device."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar: This may not be a big matter of the young but with the old people, the problem is much more greater.",
+        "output": "This may not be a big matter for the young, but with the old people, the problem is much greater.",
+        "model_response": "This may not be a big matter of the young but with the old, the problem is much greater."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors in this sentence: Believe it or not, it is reported that there are over 100 vending machines in this university alone.",
+        "output": "Believe it or not, it is reported that there are over 100 vending machines in this university alone",
+        "model_response": "It is reported that there are over 100 vending machines in this university, and that they are all operated by volunteers."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar in the sentence: Pennsylvania, the once southern state which supported the idea of slavery, abolished its slavery system.",
+        "output": "Pennsylvania, the southern state which once supported the idea of slavery, abolished its slavery system.",
+        "model_response": "Pennsylvania, the once southern state which supported the idea of slavery, abolished its slavery system."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammaticality of this text: Ever since the first vending machine appeared, many companies adopted this idea as the public welcomed such invention.",
+        "output": "Ever since the first vending machine appeared, many companies have adopted this idea as the public has welcomed such an invention.",
+        "model_response": "Ever since the first vending machines appeared, many companies adopted this idea as the public welcomed such an invention."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove grammatical mistakes: Convenience it brought has definitely played a big part in its success.",
+        "output": "The convenience it has brought has definitely played a big part in its success.",
+        "model_response": "Convenience it brought has definitely played a big part in its success."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors: In countries like Japan and Singapore, where there is a lack of space, the need for a condensed merchandiser which allowed space efficiency is furthermore amplified.",
+        "output": "In countries like Japan and Singapore, where there is a lack of space, the need for a condensed merchandiser which improves space efficiency is furthermore amplified.",
+        "model_response": "In countries like Japan and Singapore, where there is a lack of space, the need for a condensed merchandiser, which allows space efficiency, is further amplified."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors in this sentence: As time gradually goes by, the population density of many countries increased.",
+        "output": "As time gradually goes by, the population density of many countries increases.",
+        "model_response": "As time gradually goes by, the population density of many countries increased."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix the grammatical mistakes: Unfortunately, such tests were still carried out despite the unstable of the plant under risky circumstances.",
+        "output": "Unfortunately, such tests were still carried out despite the instability of the plant under risky circumstances.",
+        "model_response": "Unfortunately, such tests were still carried out despite the unstable conditions of the plant under risky circumstances."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammar of this text: These actions resulted in increasing the amount of the energy produced to an uncontrollable level in a very short moment and caused the explosions of the reactor.",
+        "output": "These actions resulted in increasing the amount of the energy produced to an uncontrollable level within a very short time and caused the explosions of the reactor.",
+        "model_response": "These actions resulted in an increasing the amount of energy produced to an uncontrollable level in a very short moment, and caused the explosions of the reactor."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors: With the more and more collaboration between psychology and design, the engineers have been using their results for the design process to make more reliable and stable products.",
+        "output": "With the increasing collaboration between psychology and design, engineers have been using for the design process to make more reliable and stable products.",
+        "model_response": "With the more and more collaboration between psychology and design, the engineers have been using their results for the design process to make more reliable and stable products."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence grammatical: There are many social and economical factors in Singapore that are hampering the country's engineering design processes for innovation.",
+        "output": "There are many social and economic factors in Singapore that are hampering the country's engineering design processes for innovation.",
+        "model_response": "There are many social and economic factors that are hampering the country's engineering design processes for innovation."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality in this sentence: Due to the small geographical size of Singapore, its population is only less then six million people.",
+        "output": "Due to the small geographical size of Singapore, its population is only less than six million people.",
+        "model_response": "Due to the small geographical size of Singapore, its population is only six million people."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar: Most engineers or designers are reluctant to even try inventing or making innovative products as they know that their inventions will most likely not make much profit, or even worse, a loss.",
+        "output": "Most engineers or designers are reluctant to even try inventing or making innovative products as they know that their inventions will most likely not make much profit, or even worse, might make.",
+        "model_response": "Most engineers or designers are reluctant to even try inventing or making innovative products as they know that their inventions will most likely not make much profit, or even worse, a loss."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors in this sentence: Secondly, Singaporeans' refusal to take risk and their contentment with their current lifestyles are also causes for the hampering of engineering design processes for innovation in Singapore.",
+        "output": "Secondly, Singaporeans' refusal to take risks and their contentment with their current lifestyles are also causing for the hampering of engineering design processes for innovation in Singapore.",
+        "model_response": "Secondly, Singaporeans' refusal to take the risk and their contentment with their current lifestyles are also causes for the hampering of the engineering design processes for innovation in Singapore."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar in this sentence: They do not want any changes to what they already had.",
+        "output": "They do not want any changes to what they already have.",
+        "model_response": "They do not want any changes to what they already have."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove grammatical mistakes: Most Singaporeans do not dare to try new ideas as they fear of failing, in which most probably results in time and money loss.",
+        "output": "Most Singaporeans do not dare to try new ideas as they fear failing, which usually results in time and money loss.",
+        "model_response": "Most Singaporeans do not dare to try new ideas as they fear of failing, in which most probably results in time and money loss."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar in the sentence: Throughout the years, various types of medical imaging technologies were invented.",
+        "output": "Throughout the years, various types of medical imaging technologies have been invented.",
+        "model_response": "Through the years, various types of medical imaging technologies have been invented."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors in this sentence: This new imaging technology must have both the advantages of the non-invasive and invasive imaging.",
+        "output": "This new imaging technology must have the advantages of both non-invasive and invasive imaging.",
+        "model_response": "This new imaging technology must have both the advantages of the non-invasive and invasive imaging."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammar of this text: The only portion which engineers would need to figure out is how to lower the operation cost of such imaging device.",
+        "output": "The only portion which engineers would need to figure out is how to lower the operation cost of such an imaging device.",
+        "model_response": "The only portion which engineers would need to figure out is how to lower the operation cost of such an imaging device."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar in the sentence: In my opinion, materials of the films and the simplicity of the devices would be important",
+        "output": "In my opinion, the materials of the films and the simplicity of the devices would be important.",
+        "model_response": "in easing the aging process.\n\n\nIn my opinion, materials of the films and the simplicity of the devices would be important in easing the aging process."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Grammar improvements: Good health is still the most crucial area where everyone would wish to achieve after all.",
+        "output": "Good health is still the most crucial area where everyone would wish to make their achievements after all.",
+        "model_response": "Good health is still the most crucial area where everyone would wish to achieve after all."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence fluent: However, the problem is basically that people only make changes according to the traditional system, while in most cases a better system has to be built with the old one totally destroyed.",
+        "output": "However, the problem is basically that people only make changes to the traditional system, while in most cases, a better system has to be built with the old one totally destroyed.",
+        "model_response": "However, the problem is that people only make changes according to the traditional system, while in most cases a better system has to be built with the old one totally destroyed."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors in this sentence: The third step is to transfer the electrical messages via electromagnetic wave to the destination.",
+        "output": "The third step is to transfer the electrical messages via electromagnetic waves to the destination.",
+        "model_response": "The third step is to transfer the electrical messages via electromagnetic wave to the destination."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove all grammatical errors from this text: Honestly, it is impossible to find a person who is willing to risk his whole life rather than waste five hours on streets every day.",
+        "output": "Honestly, it is impossible to find a person who is willing to risk his whole life rather than waste five hours on the road every day.",
+        "model_response": "Honestly, it is impossible to find a person who is willing to risk his whole life rather than waste five hours on the streets every day."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix errors in this text: Therefore it will be possible to decompose and recompose organs or tissues sooner or later.",
+        "output": "Therefore, it will be possible to decompose and recompose organs or tissues sooner or later.",
+        "model_response": "Therefore it will be possible to decompose and recompose organs or tissues sooner or later."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove all grammatical errors from this text: Moreover, creativity stems from overall analysis on what we have now, what we need to have in future and most importantly what the differences between them are.",
+        "output": "Moreover, creativity stems from the analysis of what we have now, what we need to have in the future, and most importantly, what the differences between them are.",
+        "model_response": "Moreover, creativity stems from an overall analysis of what we have now, what we need to have in the future, and most importantly, what the differences between them are."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality of the sentence: Though most of them sound like fiction story, the dream is still achievable.",
+        "output": "Though most of them sound like fiction, the dream is still achievable.",
+        "model_response": "Though most of them sound like fiction, the dream is still achievable."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammaticality of this sentence: That is why we should have confidence in our technology and ourselves because impossible is nothing.",
+        "output": "That is why we should have confidence in our technology and ourselves because nothing is impossible.",
+        "model_response": "That is why we should have confidence in our technology and ourselves because impossible is nothing."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar in this sentence: Ever wondered how many cars are there in the whole world?",
+        "output": "Have you ever wondered how many cars there are in the whole world?",
+        "model_response": "Ever wondered how many cars are there in the whole world?"
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar: Although this technology is important, many do not know its history and the development of the gasoline-powered vehicle was actually heavily influenced by political, economical and social factors.",
+        "output": "Although this technology is important, many do not know its history and that the development of the gasoline-powered vehicle was actually heavily influenced by political, economic, and social factors.",
+        "model_response": "Although this technology is important, many do not know its history and the development of the gasoline-powered vehicle was actually heavily influenced by political, economic, and social factors."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality in this sentence: Apart from the influence by the military, the government had a part to play as well, because the government implemented biased policies that involved building more gas stations and roads to cater to the gasoline-powered vehicles.",
+        "output": "Apart from the influence of the military, the government had a part to play as well because the government implemented biased policies that involved building more gas stations and roads to cater to gasoline-powered vehicles.",
+        "model_response": "Apart from the influence of the military, the government had a part to play as well because the government implemented biased policies that involved building more gas stations and roads to cater to the gasoline-powered vehicles."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality in this sentence: For instance, electric-powered vehicles were cleaner because it did not produce any harmful byproducts from combustion, were quieter, more luxurious and safer because it did not deal with any forms of combustion or heat.",
+        "output": "For instance, electric-powered vehicles were cleaner because they did not produce any harmful byproducts from combustion, and they were quieter, more luxurious, and safer because they did not deal with any forms of combustion or heat.",
+        "model_response": "For instance, electric-powered vehicles were cleaner because they did not produce any harmful byproducts from combustion, because they were quieter, more luxurious, and safer because they did not deal with any forms of combustion or heat."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors in this sentence: The first problem, the education system does not allow students to express themselves freely, causing students to be less curious and therefore not creative.",
+        "output": "The first problem is that the education system does not allow students to express themselves freely, causing students to be less curious and, therefore, not creative.",
+        "model_response": "The first problem, the education system does not allow students to express themselves freely, causing students to be less curious and therefore not creative."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Update to remove grammar errors: This kind of rote learning makes defining problems, which is the very first step of engineering design process, hard for Indonesian students.",
+        "output": "This kind of rote learning makes defining problems, which is the very first step of the engineering design process, hard for Indonesian students.",
+        "model_response": "This kind of rote learning makes defining problems, which is the very first step of the engineering design process, hard for Indonesian students."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Update to remove grammar errors: Instead of discovering and solving problems around them, they tend to avoid them and wait for someone to solve it.",
+        "output": "Instead of discovering and solving problems around them, they tend to avoid them and wait for someone else to solve them.",
+        "model_response": "Instead of discovering and solving problems around them, they tend to avoid them and wait for someone to solve them."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove grammar mistakes: With this kind of attitude it is quite impossible for someone to innovate.",
+        "output": "With this kind of attitude, it is quite impossible for someone to innovate.",
+        "model_response": "With this kind of attitude, it is quite impossible for someone to innovate."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality of the sentence: This is because most developing countries' governments, like Indonesia's, still do not yet realize that a good innovative culture in the country can actually solve other problems like poverty and basic education opportunity.",
+        "output": "This is because most developing countries' governments, like Indonesia's, still do not yet realize that a good innovative culture in the country can actually solve other problems like poverty and basic education opportunities.",
+        "model_response": "This is because most developing countries' governments, like Indonesia's, still do not yet realize that a good innovative culture in the country can actually solve other problems like poverty and basic education opportunity."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix all grammatical errors: Despite the poor education system, there are still a lot of innovative and creative people in Indonesia who wants to become real engineers.",
+        "output": "Despite the poor education system, there are still a lot of innovative and creative people in Indonesia who want to become real engineers.",
+        "model_response": "Despite the poor education system, there are still a lot of innovative and creative people in Indonesia who want to become real engineers."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix the grammar mistakes: During the last decade, the number of Newater plants increases to four.",
+        "output": "During the last decade, the number of Newater plants has increased to four.",
+        "model_response": "During the last decade, the number of Newater plants has increased to four."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammaticality: What is more, in the near future, 30% of the demand of water will come from Newater.",
+        "output": "What is more, in the near future, 30% of the supply of water in Singapore will come from Newater.",
+        "model_response": "What is more, in the near future, 30% of the demand for water will come from Newater."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix the grammatical mistakes: With the support of Singapore government, the technology of Newater has blossomed and the fifth Newater plant has been successfully set up in the Chanqi area this year.",
+        "output": "With the support of the Singapore government, the technology of Newater has blossomed, and the fifth Newater plant was successfully set up in the Chanqi area this year.",
+        "model_response": "With the support of the Singapore government, the technology of Newater has blossomed and the fifth Newater plant has been successfully set up in the Chanqi area this year."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors: Besides the support of Singapore government, a lack of water supply pushes the development of Newater.",
+        "output": "Besides the support of the Singapore government, a lack of water supply pushed the development of Newater.",
+        "model_response": "Besides the support of the Singapore government, a lack of water supply has pushed the development of Newater."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove grammatical mistakes: With the pressure of water shortage, having its own water supply system becomes more and more necessary.",
+        "output": "With the pressure of water shortage, having its own water supply system became more and more necessary for Singapore.",
+        "model_response": "With the pressure of water shortage, having its own water supply system becomes more and more necessary."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove all grammatical errors from this text: That is how the resource shortage leads to the development of Newater.",
+        "output": "That is how the resource shortage led to the development of Newater.",
+        "model_response": "That is how the resource shortage leads to the development of Newater."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence fluent: The development of Newater is a good example to demonstrate it.",
+        "output": "The development of Newater is a good example to demonstrate this.",
+        "model_response": "The development of Newater is a good example to demonstrate it."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammar of this text: All of these factors have a positive effect on development of Newater and make it succeed.",
+        "output": "All of these factors have had a positive effect on the development of Newater and made it succeed.",
+        "model_response": "All these factors have a positive effect on the development of Newater and make it succeed."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence fluent: This article will discuss the similarities and differences between these two patterns of technologies.",
+        "output": "This article will discuss the similarities and differences between these two types of technologies.",
+        "model_response": "This article will discuss the similarities and differences between these two patterns of technologies."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors: The only difference between them two is that the Penicillin was found in accident while the telephone was invented by clear aim.",
+        "output": "The only difference between them is that Penicillin was found by accident, while the telephone was invented with a clear aim.",
+        "model_response": "The only difference between them is that the penicillin was found in an accident while the telephone was invented by clear aim."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors: The difference between them is whether the inventor has the clear purpose or not, which Bell had and Fleming had not.",
+        "output": "The difference between them is whether the inventor had a clear purpose or not, which Bell and Fleming had not.",
+        "model_response": "The difference between them is whether the inventor has a clear purpose or not, which Bell and Fleming had and did not."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Grammar improvements: At the same time health problems also created great needs for advanced medical technologies and facilities.",
+        "output": "At the same time, health problems also created great need for advanced medical technologies and facilities.",
+        "model_response": "At the same time, health problems also created great needs for advanced medical technologies and facilities."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Grammar improvements: As years go by, industrialization emerged in many countries to meet various people's needs, like job opportunities and economic growth.",
+        "output": "As years went by, industrialization emerged in many countries to meet various people's needs, like job opportunities and economic growth.",
+        "model_response": "As years go by, industrialization has emerged in many countries to meet the needs of people, like job opportunities and economic growth."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality: Engineers will move on to next step once they are equipped with necessary knowledge.",
+        "output": "Engineers can move on to the next step once they are equipped with the necessary knowledge.",
+        "model_response": "Engineers will move on to the next step once they are equipped with necessary knowledge."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar: The second step of the design process is generating different solutions to the problems.",
+        "output": "The second step of the design process is generating different solutions to problems.",
+        "model_response": "The second step of the design process is to generate different solutions to the problems."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix disfluencies in the sentence: For example, fuel cells are very expensive, thus the cost of production will be so high that they will be unmarketable.",
+        "output": "For example, fuel cells are very expensive, so their cost of production will be so high that they will be unmarketable.",
+        "model_response": "For example, fuel cells are very expensive, and the cost of production will be so high that they will be unmarketable."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality of the sentence: These products are produced only after long and complicated designing process.",
+        "output": "These products are produced only after a long and complicated design process.",
+        "model_response": "These products are produced only after a long and complicated design process."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors: Otherwise, technology is a product of society and obviously is influenced by norms and values of the social system.",
+        "output": "Indeed, technology is a product of society and obviously is influenced by the norms and values of the social system.",
+        "model_response": "Otherwise, technology is a product of society and obviously is influenced by norms and values of the social system."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove grammatical mistakes: We are going to view the definition and some factors that make nuclear become a nuclear.",
+        "output": "We are going to look at the definition and some factors that make a nuclear weapon become a weapon.",
+        "model_response": "We are going to view the definition and some factors that make nuclear become a nuclear."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar in the sentence: From that time, nuclear production was getting more popular all the time.",
+        "output": "From that time onwards, nuclear production has been getting more popular all the time.",
+        "model_response": "From that time, nuclear production was getting more popular, and this has made nuclear weapons more popular."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix all grammatical errors: This is very useful in military aspect.",
+        "output": "This is very useful in the military aspect.",
+        "model_response": "This is very useful in the military aspect."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors in this sentence: And there are still a lot of aspects that contribute to technology as well.",
+        "output": "In addition, there are still a lot of aspects that contribute to technology as well.",
+        "model_response": "And there are still a lot of aspects that contribute to technology as well."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors in this sentence: The use of fossil fuel brings up much pollution and even ruins lungs of many kinds of creatures, including human beings.",
+        "output": "The use of fossil fuel causes much pollution and even ruins the lungs of many kinds of creatures, including human beings.",
+        "model_response": "The use of fossil fuels brings up much pollution and even ruins the lungs of many kinds of creatures, including human beings."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove grammar mistakes: What is surprising that today 80% of the electricity in France is supplied by nuclear energy.",
+        "output": "What is surprising is that today 80% of the electricity in France is supplied by nuclear energy.",
+        "model_response": "What is surprising is that today, 80% of the electricity in France is supplied by nuclear energy."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors: The original goal of developing nuclear technology is to invent weapons.",
+        "output": "The original goal of developing nuclear technology was to invent weapons.",
+        "model_response": "The original goal of developing nuclear technology is to invent weapons."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix the grammar mistakes: As nuclear technology becomes so important, it is necessary to have an international organization to supervise the process of every country's development.",
+        "output": "As nuclear technology becomes so important, it is necessary to have an international organization to supervise the process of every country's nuclear development.",
+        "model_response": "As nuclear technology becomes so important, it is necessary for an international organization to supervise the process of every country's development."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammar of this text: In 2007, 14% of the world's electricity came from nuclear power and, it can be seen after a few years the nuclear energy will benefit the whole world.",
+        "output": "In 2007, 14% of the world's electricity came from nuclear power, and it will be seen a few years from now that nuclear energy will benefit the whole world.",
+        "model_response": "In 2007, 14% of the world's electricity came from nuclear power, and, it can be seen after a few years that nuclear energy will benefit the whole world."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Update to remove grammar errors: Through engineering design process, we can see how engineer satisfy that need.",
+        "output": "Through the engineering design process, we can see how engineers satisfy that need.",
+        "model_response": "Through the engineering design process, we can see how engineers satisfy that need."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove grammatical mistakes: By comparing the total mark of different plans, they decide the final plan.",
+        "output": "By comparing the total mark of the different plans, they decide on the final plan.",
+        "model_response": "By comparing the total cost of different plans, they decide the final plan."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors: A cording to data on reliable Chinese websites, in 2004 alone, 6750000 electric bicycles were produced by more than 1000 factories all over China and these numbers were expected to increase by times by the end of 2010.",
+        "output": "According to data on reliable Chinese websites, in 2004 alone, 6750000 electric bicycles were produced by more than 1000 factories all over China, and these numbers are expected to increase by many times by the end of 2010.",
+        "model_response": "A cording to data on reliable Chinese websites, in 2004 alone, 6750000 electric bicycles were produced by more than 1000 factories all over China and these numbers were expected to increase by the end of 2010."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix disfluencies in the sentence: People can even ride it just like riding a bike when it runs out of power.",
+        "output": "People can even ride it, just like riding a bicycle when it runs out of power.",
+        "model_response": "People can even ride it just like riding a bike when it runs out of power."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality: Hopefully, the next typical image left by China to the world will be e-bike.",
+        "output": "Hopefully, the next typical image left by China to the world will be that of the e-bike.",
+        "model_response": "Hopefully, the next image of China to the world will be e-bikes."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix all grammatical errors: At that time, people had to simultaneously go to special post office video telephone booths to use this service.",
+        "output": "At that time, both interactants of a video telephone had to simultaneously go to special post office video telephone booths to use this service.",
+        "model_response": "At that time, people had to simultaneously go to special post offices to use this service."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar in the sentence: For a long time, although there were some companies producing videophones, different kinds of videophone from different companies could not communicate with each other because they did not share a standard.",
+        "output": "For a long time, although there were some companies producing videophones, different kinds of videophones from different companies could not communicate with each other because they did not share a standard.",
+        "model_response": "For a long time, although there were some companies producing videophones, different kinds of videophone from different companies could not communicate with each other because they did not share a standard."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar in the sentence: It sounds like a tragedy that this great innovative device has not been used or even seen by most people since it was invented in 19th century.",
+        "output": "It sounds like a tragedy that this great innovative device has not been used or even seen by most people since it was invented in the 19th century.",
+        "model_response": "It sounds like a tragedy that this great innovation has not been used or even seen by many people since it was invented in the 19th century."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence fluent: The result is that researchers in the skunk works generate innovation faster.",
+        "output": "The result is that researchers in skunk works generate innovation faster.",
+        "model_response": "The result is that researchers in the skunk works generate innovation faster."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence fluent: On the contrary, Conventional R&D organizations have more time to make their innovation more customer-friendly and more mature in technology.",
+        "output": "On the contrary, conventional R&D organizations have more time to make their innovation more customer-friendly and more mature in technology.",
+        "model_response": "On the contrary, Conventional R&D organizations have more time to make their innovation more customer-friendly and more mature in technology."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammaticality: Well, in order to have a better transportation, design processes are needed to fulfill the need.",
+        "output": "Well, in order to have better transportation, design processes are needed to fulfill the need.",
+        "model_response": "In order to have a better transportation, design processes are needed to fulfill the need."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors in this sentence: According to a presentation made by Osman Chughtai and David Shannon, fossil fuels will mostly run out in 17 years minimum or a maximum of 50 to 70 years.",
+        "output": "According to a presentation made by Osman Chughtai and David Shannon, fossil fuels will run out in 17 years minimum or a maximum of 50 to 70 years.",
+        "model_response": "According to a presentation made by Osman Chughtai and David Shannon, fossil fuels will mostly run out in 17 years or a maximum of 50 to 70 years."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove grammatical mistakes: Besides researches, development processes enable engineers to produce designs that will be tested on real ground.",
+        "output": "Besides research, development processes enable engineers to produce designs that will be tested on real ground.",
+        "model_response": "Besides research, development processes enable engineers to produce designs that will be tested on real ground."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix the grammatical mistakes: To protect the fragile touch screen, the keyboard can act as the cover and leave only a little part of the screen out side when not used.",
+        "output": "To protect the fragile touch screen, the keyboard can act as the cover and leave only a little part of the screen outside when not used.",
+        "model_response": "To protect the fragile touch screen, the keyboard can act as the cover and leave only a little part of the screen out when not used."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical mistakes in this sentence: There are plenty of functions now but the new the better.",
+        "output": "There are plenty of functions now but the newer, the better.",
+        "model_response": "There are plenty of functions now but the new better."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammar of this text: A phone can act as a telescope in Birdnest during Beijing 2008 Olympic Games by using the camera and its zoom function.",
+        "output": "A phone can act as a telescope in Birdnest during the Beijing 2008 Olympic Games by using the camera and its zoom function.",
+        "model_response": "A phone can act as a telescope in Birdnest during Beijing 2008 Olympic Games by using the camera and its zoom function."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove grammatical mistakes: It can also design a diet for its owner for here to lose weight.",
+        "output": "It can also design a diet for its owner to lose weight.",
+        "model_response": "It can also design a diet for its owner for them to lose weight."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality: At the same time, people pay more attention on the quality of the goods.",
+        "output": "At the same time, people pay more attention to the quality of the goods.",
+        "model_response": "At the same time, people pay more attention to the quality of the goods."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix all grammatical errors: In order to meet the demand of modern society, we need higher efficiency and more advanced technology.",
+        "output": "In order to meet the demands of modern society, we need higher efficiency and more advanced technology.",
+        "model_response": "In order to meet the demand for modern society, we need higher efficiency and more advanced technology."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors in this sentence: In the practical production, only the workers directly use the production equipments.",
+        "output": "In practical production, only the workers directly use production equipment.",
+        "model_response": "In the practical production, only the workers directly use the production equipment."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Update to remove grammar errors: The senior management and the boss, who have the right to change and introduce new equipments and technologies seldom care about the real condition of production.",
+        "output": "The senior management and the boss, who have the right to change and introduce new equipment and technologies, seldom care about the real condition of production.",
+        "model_response": "The senior management and the boss, who have the right to change and introduce new equipment and technologies, seldom care about the real condition of production."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar in the sentence: At the same time it loses the opportunity to save costs and increase production efficiency.",
+        "output": "At the same time, it loses the opportunity to save costs and increase production efficiency.",
+        "model_response": "At the same time, it loses the opportunity to save costs and increase production efficiency."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove all grammatical errors from this text: Furthermore, they will envy others who have a higher position or make more money or make greater contributions.",
+        "output": "Furthermore, they would envy others who have a higher position or make more money or make greater contributions.",
+        "model_response": "Furthermore, they will envy others who have a higher position or make more money or make greater contributions."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence fluent: In this era of globalization, engineering design has been emphasized by the governments of the countries all over the world, such as United State, Russia and France.",
+        "output": "In this era of globalization, engineering design has been emphasized by governments all over the world, such as the United States, Russia, and France.",
+        "model_response": "In this era of globalization, engineering design has been emphasized by governments of the countries all over the world, such as the United States, Russia, and France."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors: The stage of analysis of design solution has been constrained because of the limited knowledge and lack of professionals.",
+        "output": "The stage of analysis of the design solutions has been constrained because of limited knowledge and a lack of professionals.",
+        "model_response": "The stage of the analysis of a design solution has been constrained because of the limited knowledge and lack of professionals."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors: Hence, private sector, the government and also citizens should work hand in hand in order to get more investment for engineering design researches and produce more professionals in the field of engineering design in the future.",
+        "output": "Hence, the private sector, the government, and also citizens should work hand in hand in order to encourage more investment in engineering design research and produce more professionals in the field of engineering design in the future.",
+        "model_response": "Hence, the private sector, the government, and also citizens should work hand in hand in order to get more investment for engineering design research and produce more professionals in the field of engineering design in the future."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors in this sentence: Indonesia, a country hosting more than two hundred and thirty million citizens, is South East Asia's largest country and economy to date.",
+        "output": "Indonesia, a country with more than two hundred and thirty million citizens, is South East Asia's largest country and economy to date.",
+        "model_response": "Indonesia, a country hosting more than two hundred and thirty million citizens, is South East Asia's largest country and economy to date."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar: It is commonly believed that the slow rate of technological growth in Indonesia is caused by two major problems, which may hamper the innovative engineering design process.",
+        "output": "It is commonly believed that the slow rate of technological growth in Indonesia is caused by two major problems which may hamper the innovative engineering design process.",
+        "model_response": "It is commonly believed that the slow rate of technological growth in Indonesia is caused by two major problems, which may hamper the innovative engineering design process."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence fluent: Firstly, Indonesia lacks culture of innovation.",
+        "output": "Firstly, Indonesia lacks a culture of innovation.",
+        "model_response": "Firstly, Indonesia lacks a culture of innovation."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix disfluencies in the sentence: According to the statistics published by UNICEF in 2007, only fifty percent of Indonesian citizens are urbanized, which means the other half live in rural areas with little exposure to modern world and technology.",
+        "output": "According to statistics published by UNICEF in 2007, only fifty percent of Indonesian citizens are urbanized, which means the other half live in rural areas with little exposure to the modern world and technology.",
+        "model_response": "According to the statistics published by UNICEF in 2007, only fifty percent of Indonesian citizens are urbanized, which means the other half live in rural areas with little exposure to modern world and technology."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Update to remove grammar errors: The second problem that may hamper the engineering design process in Indonesia is due to its both excessive and cheap natural resources, space, and workforces.",
+        "output": "The second problem that may hamper the engineering design process in Indonesia is due to its excessive and cheap natural resources, space, and workforce.",
+        "model_response": "The second problem that may hamper the engineering design process in Indonesia is due to its both excessive and cheap natural resources, space, and the workforces."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammaticality of this text: In order to solve this urgent demand, engineering plays an important role in finding the other alternatives such as nuclear energy, solar energy and geothermal energy.",
+        "output": "In order to solve this urgent demand, engineering plays an important role in finding other alternatives such as nuclear energy, solar energy, and geothermal energy.",
+        "model_response": "In order to solve this urgent demand, engineering plays an important role in finding other alternatives, such as nuclear energy, solar energy, and geothermal energy."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Grammar improvements: The recent war between United States and Iraq in 2000 might be considered to be a typical example.",
+        "output": "The recent war between the United States and Iraq in 2000 might be considered to be a typical example.",
+        "model_response": "The recent war between the United States and Iraq might be considered to be a typical example."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix the grammar mistakes: The process of finding a new alternative energy source, which is not only renewable but also environmental-friendly, has been conducted for a long time and regarded as an ultimate goal for engineering.",
+        "output": "The process of finding a new alternative energy source, which is not only renewable but also environmental-friendly, has been undertaken for a long time and is regarded as an ultimate goal for engineering.",
+        "model_response": "The process of finding a new alternative energy source, which is not only renewable but also environmentally friendly, has been conducted for a long time and regarded as an ultimate goal for engineering."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Grammar improvements: For instance, one of the most tragic accidents involving radiation release was the Chernobyl disaster, which happened in 1986.",
+        "output": "For instance, one of the most tragic accidents involving radiation release was the Chornobyl disaster which happened in 1986.",
+        "model_response": "For instance, one of the most tragic accidents involving radiation release was the Chernobyl disaster, which happened in 1986."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence grammatical: Geothermal power takes the thermal calorie in the entrails in the earth and translates into other energies which contribute an important role to operate turbines and machines.",
+        "output": "Geothermal power takes the thermal calorie in the entrails of the earth and translates them into other energies, which contribute an important role in operating turbines and machines.",
+        "model_response": "Geothermal power takes the thermal calorie in the earth and translates into other energies which contribute an important role to operate turbines and machines."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove grammar mistakes: In this context, engineering design process meets these urgent needs by finding many feasible solutions such as nuclear energy, solar energy and geothermal energy sources.",
+        "output": "In this context, the engineering design process meets these urgent needs by finding many feasible solutions, such as nuclear energy, solar energy, and geothermal energy sources.",
+        "model_response": "In this context, the engineering design process meets these urgent needs by finding many feasible solutions, such as nuclear energy, solar energy, and geothermal energy sources."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar: Thus, many countries spend more money and time on developing new resources which can be used as a substitution to petroleum.",
+        "output": "Thus, many countries spend more money and time on developing new resources which can be used as a substitute for petroleum.",
+        "model_response": "Thus, many countries have spent more money and time on developing new resources which can be used as a substitute for petroleum."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality in this sentence: This can be seen through the increasing in research and development of the solar cars or other products.",
+        "output": "This can be seen through the increase in research and development of solar cars or other products.",
+        "model_response": "This can be seen through the increasing in research and development of the solar cars or other products."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality in this sentence: So we can see many firms and companies start to invest in solar energy areas.",
+        "output": "In the process, we can see many firms and companies start to invest in solar energy areas.",
+        "model_response": "So, we can see many firms and companies start to invest in solar energy areas."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove grammatical mistakes: So I think, although they have to spend much more on researches now, they can definitely save more in the long run.",
+        "output": "So I think, although they have to spend much more on research now, they can definitely save more in the long run.",
+        "model_response": "So, although they have to spend much more on research now, they can definitely save more in the long run."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence grammatical: And as solar energy comes from the sun, it can be regarded as reproducible and we do not need to worry about if it will be used up one day.",
+        "output": "And as solar energy comes from the sun, it can be regarded as reproducible, and we do not need to worry about if it will be depleted one day.",
+        "model_response": "And as solar energy comes from the sun, it can be regarded as reproducible and we do not need to worry about whether it will be used up one day."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove grammar mistakes: People's need is so various that one prime need must be given priority to avoid distractions.",
+        "output": "People's needs are so various that one prime need must be given priority to avoid distractions.",
+        "model_response": "People's needs are so diverse that one prime need must be given priority to avoid distractions."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix the grammatical mistakes: In today's world, this need should be people's demand of fresh water.",
+        "output": "In today's world, this need should be people's demand for fresh water.",
+        "model_response": "In today's world, this need should be people's demand for fresh water."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix the grammatical mistakes: As is known, water is a resource that human cannot live without.",
+        "output": "As is known, water is a resource that humans cannot live without.",
+        "model_response": "As is known, water is a resource that humans cannot live without."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors: Some people even assume that the next world war will be fought for the limited fresh water on the earth.",
+        "output": "Some people even assume that the next world war will be fought because of the limited fresh water on the earth.",
+        "model_response": "Some people even assume that the next world war will be fought for the limited fresh water on the earth."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence grammatical: To be exact, there is never a lack of water on the earth, but pollution damaged most of the available water sources, such as rivers and lacks.",
+        "output": "To be exact, there is never a lack of water on earth, but pollution damages most of the available water sources, such as rivers and lakes.",
+        "model_response": "To be exact, there is never a lack of water on the earth, but pollution has damaged most of the available water sources, such as rivers and lacks."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence fluent: In addition, engineers can design device that can save water.",
+        "output": "In addition, engineers can design a device that can save water.",
+        "model_response": "In addition, engineers can design devices that can save water."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix the grammar mistakes: Therefore, if device can avoid wasting water in daily life of each person, it will surely save considerably large amount of water.",
+        "output": "Therefore, if a device can avoid wasting water in the daily life of each person, it will surely save a considerably large amount of water.",
+        "model_response": "Therefore, if the device can avoid wasting water in daily life of each person, it will surely save a large amount of water."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Update to remove grammar errors: Small device like taps, water coolers, washing machines, can all be the targets of engineers.",
+        "output": "Small devices like taps, water coolers, and washing machines can all be the targets of engineers.",
+        "model_response": "Small devices like taps, water coolers, washing machines, can all be the targets of engineers."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence fluent: This product is a smart suit that is equipped with array of microsensors which are able to detect falls suffered by the wearers and to send alerts to their caregivers.",
+        "output": "This product is a smart suit that is equipped with an array of microsensors that are able to detect falls suffered by the wearers and send alerts to their caregivers.",
+        "model_response": "This product is a smart suit that is equipped with an array of microsensors that are able to detect falls suffered by the wearers and to send alerts to their caregivers."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality of the sentence: For instance, in the case of a fire, the temperature sensor will be alerted and sends warning alerts to their caregivers or call for Civil Defense Force immediately.",
+        "output": "For instance, in the case of a fire, the temperature sensor would be alerted and will send warning alerts to their caregivers or call for Civil Defense Force immediately.",
+        "model_response": "For instance, in the case of a fire, the temperature sensor will be alerted and sends warnings to their caregivers or calls for Civil Defense Force immediately."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence fluent: Furthermore, when considering the design of the product, there is a need to make special considerations that are suitable for the elderly use.",
+        "output": "Furthermore, when considering the design of the product, there is a need to make special considerations that are suitable for elderly use.",
+        "model_response": "Furthermore, when considering the design of the product, there is a need to make special considerations that are suitable for the elderly use."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix all grammatical errors: Those factors that might need to take into consideration when designing the product are inflexible movements and slow response time.",
+        "output": "Those factors that might need to be taken into consideration when designing the product are inflexible movements and slow response time.",
+        "model_response": "Those factors that might need to take into consideration when designing the product are inflexible movements and slow response time."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove all grammatical errors from this text: In order to make sure the product works well, engineers have to test it before they launched the product.",
+        "output": "In order to make sure the product works well, engineers have to test it before they launch the product.",
+        "model_response": "In order to make sure the product works well, engineers have to test it before they launch the product."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality in this sentence: And thus, it proved that it is really important to follow through the engineering design processes when inventing a new product.",
+        "output": "And thus, they proved that it is really important to go through engineering design processes when inventing a new product.",
+        "model_response": "And thus, it proved that it is really important to follow through the engineering design processes when inventing a new product."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar: Therefore humans have to give priorities to conserving Earth's natural resources and protecting its environment.",
+        "output": "Therefore, humans have to give priority to conserving Earth's natural resources and protecting its environment.",
+        "model_response": "Therefore humans have to give priority to conserving Earth's natural resources and protecting its environment."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical mistakes in this sentence: This can be achieved by completely abolishing already available engineering processes, modifying and improving these old processes, or correctly identifying the reasons for the rise of that need.",
+        "output": "This can be achieved by completely setting aside already available engineering processes, modifying and improving these old processes, or correctly identifying the reasons for the rise of that need.",
+        "model_response": "This can be achieved by completely abolishing already available engineering processes, modifying and improving these old processes, or correctly identifying the reasons for the rise in that need."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammar of this text: However, due to human's overuse of it, fossil fuels are expected to be completely depleted in the year 2050.",
+        "output": "However, due to humans' overuse of it, fossil fuels are expected to be completely depleted in the year 2050.",
+        "model_response": "However, due to human's overuse of it, fossil fuels are expected to be completely depleted in the year 2050."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove grammar mistakes: Therefore engineering processes of technologies that extract energy from fossil fuels must be abolished and new ones must be introduced to ensure a constant supply of energy for humans.",
+        "output": "Therefore, engineering processes of technologies that extract energy from fossil fuels must be superseded, and new ones must be introduced to ensure a constant supply of energy for humans.",
+        "model_response": "Therefore, engineering processes of technologies that extract energy from fossil fuels must be abolished and new ones must be introduced to ensure a constant supply of energy for humans."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix errors in this text: For example, western powers like countries in Europe and the United States is planning to construct large scales solar energy farms in areas in Africa like the Sahara desert to replace generating energy from fossil fuels.",
+        "output": "For example, western powers like countries in Europe and the United States are planning to construct large-scale solar energy farms in areas in Africa like the Sahara desert to replace generating energy from fossil fuels.",
+        "model_response": "For example, western powers like countries in Europe and the United States are planning to construct large-scale solar energy farms in areas in Africa like the Sahara desert to replace generating energy from fossil fuels."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Update to remove grammar errors: Therefore we can see how abolishing old engineering processes and embracing new ones can satisfy that need.",
+        "output": "Therefore, we can see how setting aside old engineering processes and embracing new ones can satisfy that need.",
+        "model_response": "Therefore, we can see how abolishing old engineering processes and embracing new ones can satisfy that need."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammar of this text: For example, transportation systems like cars require fuels like fossil fuels which is processed from a depleting natural resource, fossil fuels.",
+        "output": "For example, transportation systems like cars require fuels like fossil fuels which are processed from a depleting natural resource, fossil fuels.",
+        "model_response": "For example, transportation systems like cars require fuels like fossil fuels which is processed from a depleting natural resource, fossil fuels."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammar of this text: For instance, the introduction of electricity cars by General Motors, uses electricity to power the car's engine instead of fossil fuels.",
+        "output": "For instance, electric cars by General Motors use electricity to power the car's engine instead of fossil fuels.",
+        "model_response": "For instance, the introduction of electric cars by General Motors uses electricity to power their engine instead of fossil fuels."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors in this sentence: Furthermore, greenhouse gases like carbon dioxide will not be emitted also.",
+        "output": "Furthermore, greenhouse gases like carbon dioxide will also not be emitted.",
+        "model_response": "Furthermore, greenhouse gases like carbon dioxide will not be emitted, and they will not be absorbed by the atmosphere."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix all grammatical errors: Thirdly, the need can be fulfilled by correctly identifying and analyzing the reason for the rise of that need, so that the correct decisions can be made in engineering processes to fulfill the need.",
+        "output": "Thirdly, the need can be fulfilled by correctly identifying and analyzing the reason for the rise of that need so that correct decisions can be made through engineering processes.",
+        "model_response": "Thirdly, the need can be fulfilled by correctly identifying and analyzing the reason for the rise in that need, so that the correct decisions can be made in engineering processes to fulfill the need."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix disfluencies in the sentence: For example, CFC gases in the past is a by-product of many of our industries.",
+        "output": "For example, CFC gases in the past are a by-product of many of our industries.",
+        "model_response": "For example, CFC gases in the past were a by-product of many of our industries."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar: These gases causes the destruction of the Earth's ozone layer in the atmosphere which causes more harmful ultraviolet, UV rays to penetrate the atmosphere, causing health problems like skin cancer to humans due to these UV rays.",
+        "output": "These gases caused the destruction of the Earth's ozone layer in the atmosphere, which caused more harmful ultraviolet UV rays to penetrate the atmosphere, and consequently, health problems like skin cancer to humans due to these UV rays.",
+        "model_response": "These gases cause the destruction of the Earth's ozone layer in the atmosphere, which causes more harmful ultraviolet, UV rays to penetrate the atmosphere, causing health problems like skin cancer to humans due to these UV rays."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Update to remove grammar errors: Therefore a worldwide policy was implemented to ban the emission of CFC gases into the atmosphere by industries.",
+        "output": "Therefore, a worldwide policy was implemented to ban the emission of CFC gases into the atmosphere by industries.",
+        "model_response": "Therefore, a worldwide policy was implemented to ban the emission of CFC gases into the atmosphere by industries."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence fluent: In addition, due to the global warming, the sea level rises.",
+        "output": "In addition, due to global warming, the sea level rises.",
+        "model_response": "In addition, due to the global warming, sea level rises."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammaticality of this sentence: In some regions in the world, such as the Middle East and Africa, the shortage of clean drinking water is very serious, which even causes wars sometimes.",
+        "output": "In some regions in the world, such as the Middle East and Africa, the shortage of clean drinking water is very serious, which sometimes causes wars.",
+        "model_response": "In some regions in the world, such as the Middle East and Africa, the shortage of clean drinking water is very serious, which even causes wars sometimes."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove grammar mistakes: Hence, we may use recycled water to do these jobs so that we can save more clean drinking water for people to drink.",
+        "output": "Hence, we may use recycled water to do these jobs so that we can save more clean drinking water for people.",
+        "model_response": "Hence, we may use recycled water to do these jobs so that we can save more clean drinking water for people to drink."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammatical errors: The other way to get drinking water is the desalination of sea water.",
+        "output": "The other way to get drinking water is through desalination of seawater.",
+        "model_response": "The other way to get drinking water is the desalination of sea water."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix the grammar mistakes: Another limitation of this method is that it can only be applied in seaside countries, like Singapore, which means that it is not the first choice to many inland countries.",
+        "output": "Another limitation of this method is that it can only be applied in seaside countries like Singapore, which means that it is not the first choice of many inland countries.",
+        "model_response": "Another limitation of this method is that it can only be applied in seaside countries, like Singapore, which means that it is not the first choice to many inland countries."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammaticality of this text: Therefore, since the two methods mentioned above are both costly and difficult to apply, they can be restricted by the economic and market and thus, they may be not able to solve the shortage of water in a short period.",
+        "output": "Therefore, since the two methods mentioned above are both costly and difficult to apply, they can be restricted by the economy and the market, and thus, they may not be able to solve the shortage of water in a short period.",
+        "model_response": "Therefore, since the two methods mentioned above are both costly and difficult to apply, they can be restricted by the economic and market, and thus, they may not be able to solve the shortage of water in a short period."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality: This is due to the fuel processing in the car.",
+        "output": "This is due to fuel processing in the car.",
+        "model_response": "This is due to the fuel processing in the car."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar in this sentence: In the view of this issue, engineers are needed to design a solution.",
+        "output": "In view of this issue, engineers are needed to design a solution.",
+        "model_response": "In the view of this issue, engineers are needed to design a solution."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Improve the grammaticality of this text: Humans need to care about the environment's condition, in order to preserve it for the new generation.",
+        "output": "Humans need to care about the environment's condition in order to preserve it for the new generation.",
+        "model_response": "Humans need to care about the environment's condition, in order to preserve it for the new generation."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammar errors: Hence, there is a need for us to better the healthcare services of our older citizens.",
+        "output": "Hence, there is a need for us to improve the healthcare services of our older citizens.",
+        "model_response": "Hence, there is a need for us to better the healthcare services of our older citizens."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix all grammatical errors: They should be offered free medical checkups and treatment if necessary.",
+        "output": "They should be offered free medical check-ups and treatment if necessary.",
+        "model_response": "They should be offered free medical checkups and treatment if necessary."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix grammaticality in this sentence: In conclusion, healthcare services should not be neglected especially in countries, which face aging population.",
+        "output": "In conclusion, healthcare services should not be neglected, especially in countries that face an aging population.",
+        "model_response": "In conclusion, healthcare services should not be neglected, especially in countries, which face an aging population."
+    }
+]
