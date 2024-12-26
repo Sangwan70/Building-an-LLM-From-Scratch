@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as follows."
+title: "Building An LLM From Scratch by Ram N Sangwan"
+abstract: "This repository provides a comprehensive, step-by-step guide to implementing a ChatGPT-like large language model from scratch in PyTorch."
+date-released: 2024-11-22
+authors:
+  - family-names: "Sangwan"
+    given-names: "Ram"
+license: "Apache-2.0"
+url: "www.theskillpedia.com"
+repository-code: "https://github.com/Sangwan70/Building-an-LLM-From-Scratch"
+keywords:
+  - large language models
+  - natural language processing
+  - artificial intelligence
+  - PyTorch
+  - machine learning
+  - deep learninn
+  - The SkillPedia

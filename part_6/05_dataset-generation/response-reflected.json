@@ -1,0 +1,17 @@
+[
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove all grammatical errors from this text: The overall plant efficiency of the VHTR is also greater than that of a MSR.",
+        "output": "The overall plant efficiency of the VHTR (Very High Temperature Reactor) is also greater than that of an MSR (Molten Salt Reactor). The correction from \"a MSR\" to \"an MSR\" is necessary because \"MSR\" begins with a vowel sound, and in English, we use \"an\" before words that start with a vowel sound for grammatical accuracy. This ensures the sentence is both grammatically correct and clear."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence fluent: The attractive feature of this MSR fuel cycle is that the fission products has shorter-lived radioactivity.",
+        "output": "A notable feature of this MSR fuel cycle is that the fission products possess shorter-lived radioactivity, making it an attractive option for managing radioactive waste."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix the grammatical mistakes: Supporters of the new nuclear power plants claim that building new plants will provide unemployed people with job opportunities, both in the construction phase and operation phase.",
+        "output": "Supporters of new nuclear power plants claim that building new plants will provide unemployed people with job opportunities in both the construction phase and the operation phase. The phrase \"both in the construction phase and operation phase\" should be corrected to \"both in the construction phase and in the operation phase\" to maintain parallel structure. This ensures clarity and grammatical correctness."
+    }
+]

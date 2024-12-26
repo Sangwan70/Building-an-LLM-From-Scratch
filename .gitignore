@@ -1,0 +1,279 @@
+# Configs and keys
+part_4/07_gpt_to_llama/config.json
+part_6/02_dataset-utilities/config.json
+part_6/03_model-evaluation/config.json
+part_6/05_dataset-generation/config.json
+part_6/02_dataset-utilities/config.json
+
+# Graphics
+appendix-B/01_main-code/1.pdf
+appendix-B/01_main-code/2.pdf
+appendix-B/01_main-code/3.pdf
+
+appendix-C/01_main-code/loss-plot.pdf
+
+part_4/01_main-code/loss-plot.pdf
+part_4/01_main-code/temperature-plot.pdf
+part_4/01_main-code/wizard_of_oz.txt
+
+
+part_5/01_main-code/loss-plot.pdf
+part_5/01_main-code/accuracy-plot.pdf
+
+part_6/01_main-code/loss-plot.pdf
+part_6/01_main-code/loss-plot-standalone.pdf
+part_6/01_main-code/loss-plot-baseline.pdf
+part_6/01_main-code/loss-plot-mask-instructions.pdf
+part_6/01_main-code/loss-plot-phi3-prompt.pdf
+part_6/01_main-code/loss-plot-alpaca52k.pdf
+
+# Checkpoint files
+appendix-A/01_main-code/model.pth
+
+part_4/01_main-code/gpt2/
+part_4/02_alternative_weight_loading/checkpoints
+part_4/01_main-code/model.pth
+part_4/01_main-code/model_and_optimizer.pth
+part_4/03_bonus_pretraining_on_gutenberg/model_checkpoints
+part_4/06_user_interface/gpt2
+part_4/07_gpt_to_llama/.cache
+part_4/07_gpt_to_llama/Llama-2-7b
+part_4/07_gpt_to_llama/Llama-2-7b-chat
+part_4/07_gpt_to_llama/Llama-3-8B
+part_4/07_gpt_to_llama/Llama-3-8B-Instruct
+part_4/07_gpt_to_llama/Llama-3.1-8B
+part_4/07_gpt_to_llama/Llama-3.1-8B-Instruct
+part_4/07_gpt_to_llama/Llama-3.2-1B
+part_4/07_gpt_to_llama/Llama-3.2-1B-Instruct
+part_4/07_gpt_to_llama/Llama-3.2-3B
+part_4/07_gpt_to_llama/Llama-3.2-3B-Instruct
+part_4/06_gpt_to_llama/Llama-3.2-1B-Instruct/
+
+
+part_6/01_main-code/gpt2-medium355M-sft-baseline.pth
+part_6/01_main-code/gpt2-medium355M-sft-mask-instructions.pth
+part_6/01_main-code/gpt2-medium355M-sft-phi3-prompt.pth
+part_6/01_main-code/gpt2-medium355M-sft-alpaca52k.pth
+part_6/01_main-code/gpt2-medium355M-sft-lora.pth
+part_6/01_main-code/gpt2-medium355M-sft.pth
+part_6/01_main-code/gpt2-medium355M-sft-standalone.pth
+part_6/01_main-code/Smalltestmodel-sft-standalone.pth
+
+
+# Datasets
+appendix-C/01_main-code/sms_spam_collection.zip
+appendix-C/01_main-code/sms_spam_collection
+appendix-C/01_main-code/train.csv
+appendix-C/01_main-code/test.csv
+appendix-C/01_main-code/validation.csv
+
+part_2/01_main-code/number-data.txt
+
+part_4/03_bonus_pretraining_on_gutenberg/gutenberg
+part_4/03_bonus_pretraining_on_gutenberg/gutenberg_preprocessed
+
+part_5/01_main-code/sms_spam_collection.zip
+part_5/01_main-code/sms_spam_collection
+part_5/01_main-code/test.csv
+part_5/01_main-code/train.csv
+part_5/01_main-code/validation.csv
+part_5/01_main-code/review_classifier.pth
+part_5/02_bonus_additional-experiments/test.csv
+part_5/02_bonus_additional-experiments/train.csv
+part_5/02_bonus_additional-experiments/validation.csv
+part_5/02_bonus_additional-experiments/sms_spam_collection.zip
+part_5/02_bonus_additional-experiments/sms_spam_collection
+part_5/03_bonus_imdb-classification/aclImdb/
+part_5/03_bonus_imdb-classification/aclImdb_v1.tar.gz
+part_5/03_bonus_imdb-classification/test.csv
+part_5/03_bonus_imdb-classification/train.csv
+part_5/03_bonus_imdb-classification/validation.csv
+
+part_6/01_main-code/instruction-data-with-response-standalone.json
+part_6/01_main-code/instruction-data-with-response-baseline.json
+part_6/01_main-code/instruction-data-with-response-mask-instructions.json
+part_6/01_main-code/loss-plot-lora.pdf
+part_6/01_main-code/instruction-data-with-response-alpaca52k.json
+part_6/01_main-code/instruction-data-with-response-lora.json
+part_6/01_main-code/instruction-data-with-response-phi3-prompt.json
+part_6/02_dataset-utilities/instruction-examples-modified.json
+part_6/04_preference-tuning-with-dpo/gpt2-medium355M-sft.pth
+part_6/04_preference-tuning-with-dpo/loss-plot.pdf
+
+# Other
+part_?/0?_user_interface/.chainlit/
+part_?/0?_user_interface/chainlit.md
+part_?/0?_user_interface/.files
+*.lock
+
+# Temporary OS-related files
+.DS_Store
+.chainlit
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.key
+solution/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+#   For a library or package, you might want to ignore these files since the code is
+#   intended to run in multiple environments; otherwise, check them in:
+# .python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# poetry
+#   Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
+#   This is especially recommended for binary packages to ensure reproducibility, and is more
+#   commonly ignored for libraries.
+#   https://python-poetry.org/docs/basic-usage/#commit-your-poetrylock-file-to-version-control
+#poetry.lock
+
+# pdm
+#   Similar to Pipfile.lock, it is generally recommended to include pdm.lock in version control.
+#pdm.lock
+#   pdm stores project-wide configurations in .pdm.toml, but it is recommended to not include it
+#   in version control.
+#   https://pdm.fming.dev/#use-with-ide
+.pdm.toml
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+gpt2/
+llama/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# PyCharm
+#  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
+#  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
+#  and can be added to the global gitignore or merged into this file.  For a more nuclear
+#  option (not recommended) you can uncomment the following to ignore the entire idea folder.
+#.idea/
+
+# vscode
+.vscode/

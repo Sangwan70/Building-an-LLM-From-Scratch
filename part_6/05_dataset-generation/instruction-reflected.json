@@ -1,0 +1,20 @@
+[
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Remove all grammatical errors from this text: The overall plant efficiency of the VHTR is also greater than that of a MSR.",
+        "output": "The overall plant efficiency of the VHTR is also greater than that of an MSR.",
+        "model_response": "The overall plant efficiency of the VHTR is also greater than that of a MSR."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Make the sentence fluent: The attractive feature of this MSR fuel cycle is that the fission products has shorter-lived radioactivity.",
+        "output": "The attractive feature of this MSR fuel cycle is that the fission products have shorter-lived radioactivity.",
+        "model_response": "The attractive feature of this MSR fuel cycle is that the fission products have shorter-lived radioactivity."
+    },
+    {
+        "instruction": "You are a writing assistant that helps the user write better English.",
+        "input": "Fix the grammatical mistakes: Supporters of the new nuclear power plants claim that building new plants will provide unemployed people with job opportunities, both in the construction phase and operation phase.",
+        "output": "Supporters of new nuclear power plants claim that building new plants will provide unemployed people with job opportunities, both in the construction phase and operation phase.",
+        "model_response": "Supporters of new nuclear power plants claim that building new plants will provide unemployed people with job opportunities both in the construction phase and operation phase."
+    }
+]
