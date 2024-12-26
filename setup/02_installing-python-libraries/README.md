@@ -23,22 +23,17 @@ Then, after completing the installation, please check if all the packages are in
 python python_environment_check.py
 ```
 
-<img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/setup/02_installing-python-libraries/check_1.webp" width="600px">
+<img src="https://raw.githubusercontent.com/Sangwan70/Building-an-LLM-From-Scratch/refs/heads/main/setup/images/check_1.webp" width="600px">
 
 It's also recommended to check the versions in JupyterLab by running the `python_environment_check.ipynb` in this directory, which should ideally give you the same results as above.
 
-<img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/setup/02_installing-python-libraries/check_2.webp" width="500px">
+<img src="https://raw.githubusercontent.com/Sangwan70/Building-an-LLM-From-Scratch/refs/heads/main/setup/images/check_2.webp" width="500px">
 
 If you see the following issues, it's likely that your JupyterLab instance is connected to wrong conda environment:
 
-<img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/setup/02_installing-python-libraries/jupyter-issues.jpg" width="450px">
-
-In this case, you may want to use `watermark` to check if you opened the JupyterLab instance in the right conda environment using the `--conda` flag:
-
-<img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/setup/02_installing-python-libraries/watermark.jpg" width="350px">
+<img src="https://raw.githubusercontent.com/Sangwan70/Building-an-LLM-From-Scratch/refs/heads/main/setup/images/jupyter-issues.jpg" width="450px">
 
 
-<br>
 <br>
 
 
