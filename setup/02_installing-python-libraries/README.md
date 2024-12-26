@@ -31,7 +31,7 @@ It's also recommended to check the versions in JupyterLab by running the `python
 
 If you see the following issues, it's likely that your JupyterLab instance is connected to wrong conda environment:
 
-<img src="https://raw.githubusercontent.com/Sangwan70/Building-an-LLM-From-Scratch/refs/heads/main/setup/images/jupyter-issues.jpg" width="450px">
+<img src="https://raw.githubusercontent.com/Sangwan70/Building-an-LLM-From-Scratch/refs/heads/main/setup/images/jupyter-issues.webp" width="450px">
 
 
 <br>
@@ -49,7 +49,7 @@ However, since PyTorch is a comprehensive library featuring CPU- and GPU-compati
 
 It's also highly recommended to consult the installation guide menu on the official PyTorch website at [https://pytorch.org](https://pytorch.org).
 
-<img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/setup/02_installing-python-libraries/pytorch-installer.jpg" width="600px">
+<img src="https://raw.githubusercontent.com/Sangwan70/Building-an-LLM-From-Scratch/refs/heads/main/setup/images/pytorch-installer.jpg" width="600px">
 
 <br>
 
