@@ -33,7 +33,7 @@ cd Building-an-LLM-From-Scratch
 mv setup/03_optional-docker-environment/.devcontainer ./
 ```
 
-3. In Docker Desktop, make sure that **_desktop-linux_ builder** is running and will be used to build the Docker container (see _Docker Desktop_ -> _Change settings_ -> _Builders_ -> _desktop-linux_ -> _..._ -> _Use_)
+3. In Docker Desktop, make sure that **_desktop-linux_** builder is running and will be used to build the Docker container (see _Docker Desktop_ -> _Change settings_ -> _Builders_ -> _desktop-linux_ -> _..._ -> _Use_)
 
 4. If you have a [CUDA-supported GPU](https://developer.nvidia.com/cuda-gpus), you can speed up the training and inference:
 
