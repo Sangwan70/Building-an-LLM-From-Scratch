@@ -9,14 +9,11 @@ The method described for training and developing your own small-but-functional m
 
 - Link to the official [Source Code](https://github.com/Sangwan70/Building-an-LLM-From-Scratch)
 
-
 <br>
 
 ```bash
 git clone --depth 1 https://github.com/Sangwan70/Building-an-LLM-From-Scratch.git
 ```
-
-<br>
 <br>
 
 # Table of Contents
@@ -27,7 +24,6 @@ git clone --depth 1 https://github.com/Sangwan70/Building-an-LLM-From-Scratch.gi
 > [!TIP]
 > If you're seeking guidance on installing Python and Python packages and setting up your code environment, I suggest reading the [README.md](setup/README.md) file located in the [setup](setup) directory.
 
-<br>
 <br>
 
 | part Title                                              | Main Code (for Quick Access)                                                                                                    | All Code + Supplementary      |
@@ -48,12 +44,12 @@ git clone --depth 1 https://github.com/Sangwan70/Building-an-LLM-From-Scratch.gi
 
 ## Hardware Requirements
 
-The code in the main parts of this book is designed to run on conventional laptops within a reasonable timeframe and does not require specialized hardware. This approach ensures that a wide audience can engage with the material. Additionally, the code automatically utilizes GPUs if they are available. (Please see the [setup](https://github.com/Sangwan70/Building-an-LLM-From-Scratch/blob/main/setup/README.md) doc for additional recommendations.)
+The code in the main parts of this course is designed to run on conventional laptops within a reasonable timeframe and does not require specialized hardware. Additionally, the code automatically utilizes GPUs if they are available. (Please see the [setup](https://github.com/Sangwan70/Building-an-LLM-From-Scratch/blob/main/setup/README.md) doc for additional recommendations.)
 
 &nbsp;
-## Bonus Material
+## Additional Material
 
-Several folders contain optional materials as a bonus for interested readers:
+Several folders contain additional materials for interested readers:
 
 - **Setup**
   - [Python Setup Tips](setup/01_optional-python-setup-preferences)
@@ -86,20 +82,16 @@ Several folders contain optional materials as a bonus for interested readers:
   - [Evaluating Instruction Responses Using the OpenAI API and Ollama](part_6/03_model-evaluation)
   - [Generating a Dataset for Instruction Finetuning](part_6/05_dataset-generation/llama3-ollama.ipynb)
   - [Improving a Dataset for Instruction Finetuning](part_6/05_dataset-generation/reflection-gpt4.ipynb)
-  - [Generating a Preference Dataset with Llama 3.1 70B and Ollama](part_6/04_preference-tuning-with-dpo/create-preference-data-ollama.ipynb)
+  - [Generating a Preference Dataset with Llama 3.2 3B and Ollama](part_6/04_preference-tuning-with-dpo/create-preference-data-ollama.ipynb)
   - [Direct Preference Optimization (DPO) for LLM Alignment](part_6/04_preference-tuning-with-dpo/dpo-from-scratch.ipynb)
   - [Building a User Interface to Interact With the Instruction Finetuned GPT Model](part_6/06_user_interface)
 
 <br>
-&nbsp;
 
 ## Questions, Feedback, and Contributing to This Repository
 
 
-I welcome all sorts of feedback, best shared via [GitHub Discussions](https://github.com/Sangwan70/Building-an-LLM-From-Scratch/discussions). Likewise, if you have any questions or just want to bounce ideas off others, please don't hesitate to post these in the forum as well.
-
-Please note that since this repository contains the code corresponding to a print book, I currently cannot accept contributions that would extend the contents of the main part code, as it would introduce deviations from the physical book. Keeping it consistent helps ensure a smooth experience for everyone.
-
+I welcome all sorts of feedback via [GitHub Discussions](https://github.com/Sangwan70/Building-an-LLM-From-Scratch/discussions). Likewise, if you have any questions or just want to bounce ideas off others, please don't hesitate to post these in the forum as well.
 
 &nbsp;
 ## Citation

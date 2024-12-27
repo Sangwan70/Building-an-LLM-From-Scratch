@@ -1,9 +1,6 @@
-# Optional Setup Instructions
-
+# Setup Instructions
 
 This document lists different approaches for setting up your machine and using the code in this repository. I recommend browsing through the different sections from top to bottom and then deciding which approach best suits your needs.
-
-&nbsp;
 
 ## Quickstart
 
@@ -12,14 +9,10 @@ If you already have a Python installation on your machine, the quickest way to g
 ```bash
 pip install -r requirements.txt
 ```
-
-&nbsp;
-
 # Local Setup
 
-This section provides recommendations for running the code in this course locally. Note that the code in repository is designed to run on conventional laptops within a reasonable timeframe and does not require specialized hardware. I tested all code on an M3 MacBook Pro Max laptop. Additionally, if your laptop or desktop computer has an NVIDIA GPU, the code will automatically take advantage of it.
+This section provides recommendations for running the code in this course locally. Note that the code in repository is designed to run on conventional laptops within a reasonable timeframe and does not require specialized hardware. I tested all code on an M2 MacBook Pro Max laptop with 32 GB RAM. Additionally, if your laptop or desktop computer has an NVIDIA GPU, the code will automatically take advantage of it.
 
-&nbsp;
 ## Setting up Python
 
 If you don't have Python set up on your machine yet, I have written about my personal Python setup preferences in the following directories:
@@ -28,8 +21,6 @@ If you don't have Python set up on your machine yet, I have written about my per
 - [02_installing-python-libraries](./02_installing-python-libraries)
 
 The *Using DevContainers* section below outlines an alternative approach for installing project dependencies on your machine.
-
-&nbsp;
 
 ## Using Docker DevContainers
 
@@ -80,8 +71,6 @@ git clone https://github.com/Sangwan70/Building-an-LLM-From-Scratch.git
 cd Building-an-LLM-From-Scratch
 pip install -r requirements.txt
 ```
-
-(In contrast to Google Colab, these only need to be executed once since the Lightning AI Studio environments are persistent, even if you switch between CPU and GPU machines.)
 
 Then, navigate to the Python script or Jupyter Notebook you want to run. Optionally, you can also easily connect a GPU to accelerate the code's runtime, for example, when you are pretraining the LLM in part 4 or finetuning it in part 5 and 6.
 

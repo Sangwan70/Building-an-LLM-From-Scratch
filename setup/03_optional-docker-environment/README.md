@@ -1,18 +1,14 @@
-# Docker Environment Setup Guide
+# Docker/Podman Environment Setup
 
-If you prefer a development setup that isolates a project's dependencies and configurations, using Docker is a highly effective solution. This approach eliminates the need to manually install software packages and libraries and ensures a consistent development environment.
+If you prefer a development setup that isolates a project's dependencies and configurations, using Docker or Podmanis a highly effective solution. This approach eliminates the need to manually install software packages and libraries and ensures a consistent development environment.
 
-This guide will walk you through the process for setting up an optional docker environment for this book if you prefer it over using the conda approach explained in [../01_optional-python-setup-preferences](../01_optional-python-setup-preferences) and [../02_installing-python-libraries](../02_installing-python-libraries).
+This guide will walk you through the process for setting up an optional docker and podman environment for this course if you prefer it over using the conda approach explained in [../01_optional-python-setup-preferences](../01_optional-python-setup-preferences) and [../02_installing-python-libraries](../02_installing-python-libraries).
 
-<br>
+## Downloading and installing Docker or Podman
 
-## Downloading and installing Docker
-
-The easiest way to get started with Docker is by installing [Docker Desktop](https://docs.docker.com/desktop/) for your relevant platform.
+The easiest way to get started with Docker or Podman is by installing [Docker Desktop](https://docs.docker.com/desktop/) or [Podman Desktop](https://podman-desktop.io/) for your relevant platform.
 
 Linux (Ubuntu) users may prefer to install the [Docker Engine](https://docs.docker.com/engine/install/ubuntu/) instead and follow the [post-installation](https://docs.docker.com/engine/install/linux-postinstall/) steps.
-
-<br>
 
 ## Using a Docker DevContainer in Visual Studio Code
 
@@ -33,13 +29,13 @@ cd Building-an-LLM-From-Scratch
 mv setup/03_optional-docker-environment/.devcontainer ./
 ```
 
-3. In Docker Desktop, make sure that **_desktop-linux_ builder** is running and will be used to build the Docker container (see _Docker Desktop_ -> _Change settings_ -> _Builders_ -> _desktop-linux_ -> _..._ -> _Use_)
+3. If you are using Docker Desktop, make sure that **_desktop-linux_ builder** is running. It will be used to build the container images (see _Docker Desktop_ -> _Change settings_ -> _Builders_ -> _desktop-linux_ -> _..._ -> _Use_)
 
 4. If you have a [CUDA-supported GPU](https://developer.nvidia.com/cuda-gpus), you can speed up the training and inference:
 
-   3.1 Install **NVIDIA Container Toolkit** as described [here](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html#installing-with-apt). NVIDIA Container Toolkit is supported as written [here](https://docs.nvidia.com/cuda/wsl-user-guide/index.html#nvidia-compute-software-support-on-wsl-2).
+   4.1 Install **NVIDIA Container Toolkit** as described [here](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html#installing-with-apt). NVIDIA Container Toolkit is supported as written [here](https://docs.nvidia.com/cuda/wsl-user-guide/index.html#nvidia-compute-software-support-on-wsl-2).
 
-   3.2 Add _nvidia_ as runtime in Docker Engine daemon config (see _Docker Desktop_ -> _Change settings_ -> _Docker Engine_). Add these lines to your config:
+   4.2 Add _nvidia_ as runtime in Docker Engine daemon config (see _Docker Desktop_ -> _Change settings_ -> _Docker Engine_). Add these lines to your config:
 
    ```json
    "runtimes": {
@@ -93,8 +89,6 @@ Once completed, VS Code will automatically connect to the container and reopen t
 
 Once the image has been pulled and built, you should have your project mounted inside the container with all the packages installed, ready for development.
 
-<br>
-
 ## Uninstalling the Docker Image
 
 Below are instructions for uninstalling or removing a Docker container and image if you no longer plan to use it. This process does not remove Docker itself from your system but rather cleans up the project-specific Docker artifacts.
@@ -110,8 +104,6 @@ docker image ls
 ```bash
 docker image rm [IMAGE_ID_OR_NAME]
 ```
-
-<br>
 
 ## Uninstalling Docker
 

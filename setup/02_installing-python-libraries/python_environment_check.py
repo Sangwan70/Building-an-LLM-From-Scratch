@@ -1,5 +1,5 @@
 # Copyright (c) The SkillPedia under Apache License 2.0 (see LICENSE.txt).
-# Source for "Build a Large Language Model From Scratch"
+# Source for "Building a Large Language Model From Scratch"
 #  
 # Code: https://github.com/Sangwan70/Building-an-LLM-From-Scratch
 #
@@ -12,8 +12,7 @@ import platform
 import sys
 
 if version_parse(platform.python_version()) < version_parse("3.9"):
-    print("[FAIL] We recommend Python 3.9 or newer but"
-          " found version %s" % (sys.version))
+    print("[FAIL] We recommend Python 3.10 or newer but found version %s" % (sys.version))
 else:
     print("[OK] Your Python version is %s" % (platform.python_version()))
 
