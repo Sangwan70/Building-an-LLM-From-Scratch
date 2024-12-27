@@ -1,10 +1,10 @@
 {
-  "name": "LLMs From Scratch",
+  "name": "Large Language Models From Scratch",
   "build": {
     "context": "..",
     "dockerfile": "Dockerfile"
   },
-  "runArgs": ["--runtime=nvidia", "--gpus=all"],
+  // "runArgs": ["--runtime=nvidia", "--gpus=all"],
   "customizations": {
     "vscode": {
       "extensions": [
