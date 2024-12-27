@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 # Local Setup
 
-This section provides recommendations for running the code in this book locally. Note that the code in repository is designed to run on conventional laptops within a reasonable timeframe and does not require specialized hardware. I tested all code on an M3 MacBook Pro Max laptop. Additionally, if your laptop or desktop computer has an NVIDIA GPU, the code will automatically take advantage of it.
+This section provides recommendations for running the code in this course locally. Note that the code in repository is designed to run on conventional laptops within a reasonable timeframe and does not require specialized hardware. I tested all code on an M3 MacBook Pro Max laptop. Additionally, if your laptop or desktop computer has an NVIDIA GPU, the code will automatically take advantage of it.
 
 &nbsp;
 ## Setting up Python
@@ -63,7 +63,7 @@ Then, VSCode automatically checks if the recommended extensions are already inst
 
 # Cloud Resources
 
-This section describes cloud alternatives for running the code presented in this book.
+This section describes cloud alternatives for running the code presented in this course.
 
 While the code can run on conventional laptops and desktop computers without a dedicated GPU, cloud platforms with NVIDIA GPUs can substantially improve the runtime of the code, especially in parts 4 to 6.
 

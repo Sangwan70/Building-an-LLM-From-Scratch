@@ -57,7 +57,7 @@ Several folders contain optional materials as a bonus for interested readers:
 
 - **Setup**
   - [Python Setup Tips](setup/01_optional-python-setup-preferences)
-  - [Installing Python Packages and Libraries Used In This Book](setup/02_installing-python-libraries)
+  - [Installing Python Packages and Libraries Used in this course](setup/02_installing-python-libraries)
   - [Docker Environment Setup Guide](setup/03_optional-docker-environment)
 - **Part 1: Working with text data**
   - [Comparing Various Byte Pair Encoding (BPE) Implementations](part_1/02_bonus_bytepair-encoder)
