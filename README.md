@@ -2,29 +2,22 @@
 
 This repository contains the code for developing, pretraining, and finetuning a GPT-like LLM.
 
-<br>
 You'll learn and understand how large language models (LLMs) work from the inside out by coding them from the ground up, step by step. I'll guide you through creating your own LLM, explaining each stage with clear text, diagrams, and examples.
 
 The method described for training and developing your own small-but-functional model for educational purposes mirrors the approach used in creating large-scale foundational models such as those behind ChatGPT. In addition, this repository includes code for loading the weights of larger pretrained models for finetuning.
 
 - Link to the official [Source Code](https://github.com/Sangwan70/Building-an-LLM-From-Scratch)
 
-<br>
-
 ```bash
 git clone --depth 1 https://github.com/Sangwan70/Building-an-LLM-From-Scratch.git
 ```
-<br>
-
 # Table of Contents
 
-<br>
 <!--  -->
 
 > [!TIP]
 > If you're seeking guidance on installing Python and Python packages and setting up your code environment, I suggest reading the [README.md](setup/README.md) file located in the [setup](setup) directory.
 
-<br>
 
 | part Title                                              | Main Code (for Quick Access)                                                                                                    | All Code + Supplementary      |
 |------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
@@ -39,14 +32,11 @@ git clone --depth 1 https://github.com/Sangwan70/Building-an-LLM-From-Scratch.gi
 | Appendix B: Adding Bells and Whistles to the Training Loop | - [appendix-B.ipynb](appendix-B/01_main-code/appendix-B.ipynb)                                                          | [./appendix-B](./appendix-B)  |
 | Appendix C: Parameter-efficient Finetuning with LoRA       | - [appendix-C.ipynb](appendix-C/01_main-code/appendix-C.ipynb)                                                          | [./appendix-C](./appendix-C) |
 
-<br>
-&nbsp;
 
 ## Hardware Requirements
 
 The code in the main parts of this course is designed to run on conventional laptops within a reasonable timeframe and does not require specialized hardware. Additionally, the code automatically utilizes GPUs if they are available. (Please see the [setup](https://github.com/Sangwan70/Building-an-LLM-From-Scratch/blob/main/setup/README.md) doc for additional recommendations.)
 
-&nbsp;
 ## Additional Material
 
 Several folders contain additional materials for interested readers:
@@ -54,7 +44,6 @@ Several folders contain additional materials for interested readers:
 - **Setup**
   - [Python Setup Tips](setup/01_optional-python-setup-preferences)
   - [Installing Python Packages and Libraries Used in this course](setup/02_installing-python-libraries)
-  - [Docker Environment Setup Guide](setup/03_optional-docker-environment)
 - **Part 1: Working with text data**
   - [Comparing Various Byte Pair Encoding (BPE) Implementations](part_1/02_bonus_bytepair-encoder)
   - [Understanding the Difference Between Embedding Layers and Linear Layers](part_1/03_bonus_embedding-vs-matmul)
@@ -86,7 +75,6 @@ Several folders contain additional materials for interested readers:
   - [Direct Preference Optimization (DPO) for LLM Alignment](part_6/04_preference-tuning-with-dpo/dpo-from-scratch.ipynb)
   - [Building a User Interface to Interact With the Instruction Finetuned GPT Model](part_6/06_user_interface)
 
-<br>
 
 ## Questions, Feedback, and Contributing to This Repository
 

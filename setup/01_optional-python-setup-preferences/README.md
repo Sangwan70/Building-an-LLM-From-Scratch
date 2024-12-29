@@ -1,7 +1,7 @@
-# Python Setup Tips
+# Python Setup
 
 
-There are several ways you can install Python and set up your computing environment. Here, I am illustrating my personal preference.
+There are several ways you can install Python and set up your computing environment.
 
 (I am using computers running MacOS, but this workflow is similar for Linux machines and may work for other operating systems as well.)
 

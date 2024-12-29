@@ -20,16 +20,6 @@ If you don't have Python set up on your machine yet, I have written about my per
 - [01_optional-python-setup-preferences](./01_optional-python-setup-preferences)
 - [02_installing-python-libraries](./02_installing-python-libraries)
 
-The *Using DevContainers* section below outlines an alternative approach for installing project dependencies on your machine.
-
-## Using Docker DevContainers
-
-As an alternative to the *Setting up Python* section above, if you prefer a development setup that isolates a project's dependencies and configurations, using Docker is a highly effective solution. This approach eliminates the need to manually install software packages and libraries and ensures a consistent development environment. You can find more instructions for setting up Docker and using a DevContainer:
-
-- [03_optional-docker-environment](03_optional-docker-environment)
-
-&nbsp;
-
 ## Visual Studio Code Editor
 
 There are many good options for code editors. My preferred choice is the popular open-source [Visual Studio Code (VSCode)](https://code.visualstudio.com) editor, which can be easily enhanced with many useful plugins and extensions (see the *VSCode Extensions* section below for more information). Download instructions for macOS, Linux, and Windows can be found on the [main VSCode website](https://code.visualstudio.com).
