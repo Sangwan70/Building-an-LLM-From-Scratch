@@ -49,12 +49,6 @@ conda activate LLMs
 
 <br>
 
-## Optional: styling your terminal
-
-If you want to style your terminal similar to mine so that you can see which virtual environment is active,  check out the [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) project.
-
-<br>
-
 ## 3. Install new Python libraries
 
 
