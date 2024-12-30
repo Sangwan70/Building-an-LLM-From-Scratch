@@ -1,6 +1,6 @@
 # Installing Python Packages and Libraries Used in this course
 
-This document provides more information on double-checking your installed Python version and packages. (Please see the [../01_optional-python-setup-preferences](../01_optional-python-setup-preferences) folder for more information on installing Python and Python packages.)
+This document provides more information on double-checking your installed Python version and packages. (Please see the [../01_python-setup-preferences](../01_python-setup-preferences) folder for more information on installing Python and Python packages.)
 
 I used the following libraries listed [here](https://github.com/Sangwan70/Building-an-LLM-From-Scratch/blob/main/requirements.txt) for this course. Newer versions of these libraries are likely compatible as well. However, if you experience any problems with the code, you can try these library versions as a fallback.
 
