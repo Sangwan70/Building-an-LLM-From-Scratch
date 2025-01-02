@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part_4/03_bonus_pretraining_on_gutenberg/gutenberg" vcs="Git" />
   </component>
 </project>
