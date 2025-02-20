@@ -4,6 +4,8 @@ This repository contains the code for developing, pretraining, and finetuning a 
 
 You'll learn and understand how large language models (LLMs) work from the inside out by coding them from the ground up, step by step. I'll guide you through creating your own LLM, explaining each stage with clear text, diagrams, and examples.
 
+[!Environment Setup for Building Large Language Models ](https://youtu.be/pCrBZckAdGQ)
+
 The method described for training and developing your own small-but-functional model for educational purposes mirrors the approach used in creating large-scale foundational models such as those behind ChatGPT. In addition, this repository includes code for loading the weights of larger pretrained models for finetuning.
 
 - Link to the official [Source Code](https://github.com/Sangwan70/Building-an-LLM-From-Scratch)
